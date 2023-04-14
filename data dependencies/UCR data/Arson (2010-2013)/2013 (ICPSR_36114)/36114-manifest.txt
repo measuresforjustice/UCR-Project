@@ -1,0 +1,47 @@
+File Manifest for ICPSR 36114
+
+United States. Federal Bureau of Investigation. Uniform Crime Reporting
+Program Data: Arson, United States, 2013. ICPSR36114-v1. Ann Arbor, MI:
+Inter-university Consortium for Political and Social Research
+[distributor], 2015-07-09. http://doi.org/10.3886/ICPSR36114.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36114-descriptioncitation.pdf       -       -         -       2018-05-23  -
+
+    36114-related_literature.txt        -       -         -       daily       -
+
+    36114-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Uniform Crime Reporting Program Data: Arson, United States, 2013
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36114-0001-Codebook.pdf             -       -         -       2015-07-09  15e63e269205bba1065d2dcc0cb31927
+
+    36114-0001-Data.dta                 -       22,202    1253    2015-07-09  dfb7d4980d10a79fd683e908f0ecc87f
+
+    36114-0001-Data.rda                 -       22,202    1253    2015-07-09  419e3d1b21b070ae9d6bfe29595f17ea
+
+    36114-0001-Data.sav                 -       22,202    1253    2015-07-09  dd0c4f8eb781676076bbfcc8bfef5e17
+
+    36114-0001-Data.stc                 -       22,202    1253    2015-07-09  5e96ea0d8d56ed4353006ac7e00bda6e
+
+    36114-0001-Data.tsv                 -       22,202    1253    2015-07-09  8b314f331cf5a08fb5cc1f9425d7888c
+
+    36114-0001-Data.txt                 2539    22,202    1253    2015-07-09  469b5f1e6cbb06b9ffda79fd0e02aadd
+
+    36114-0001-Setup.dct                -       -         -       2015-07-09  92fe43831c4ff13ed3af36efa80534bd
+
+    36114-0001-Setup.do                 -       -         -       2015-07-09  f25d59126fd79e3eaff7851dacdec13a
+
+    36114-0001-Setup.sas                -       -         -       2015-07-09  616a48467e2ea829f73e39b1d4f48676
+
+    36114-0001-Setup.sps                -       -         -       2015-07-09  d245a3602bc4d20e36a3f2b5ce483f60
+

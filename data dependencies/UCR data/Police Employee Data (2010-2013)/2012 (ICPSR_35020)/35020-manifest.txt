@@ -1,0 +1,49 @@
+File Manifest for ICPSR 35020
+
+United States Department of Justice. Federal Bureau of Investigation.
+Uniform Crime Reporting Program Data: Police Employee (LEOKA) Data, 2012.
+ICPSR35020-v1. Ann Arbor, MI: Inter-university Consortium for Political and
+Social Research [distributor], 2014-04-16.
+http://doi.org/10.3886/ICPSR35020.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    35020-descriptioncitation.pdf       -       -         -       2016-05-16  -
+
+    35020-related_literature.txt        -       -         -       daily       -
+
+    35020-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Uniform Crime Reporting Program Data: Police Employee (LEOKA) Data,
+2012
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    35020-0001-Codebook.pdf             -       -         -       2014-04-16  09fb39c0e69f4d224be4574b6d5f91e8
+
+    35020-0001-Data.dta                 -       22,049    2264    2014-04-16  55538f009043e8fa1d10b1ed186b30ad
+
+    35020-0001-Data.rda                 -       22,049    2264    2014-04-16  2a163a837923f317381abf10b32b5cce
+
+    35020-0001-Data.sav                 -       22,049    2264    2014-04-16  774cb710db24b56db5f7348780533f7d
+
+    35020-0001-Data.stc                 -       22,049    2264    2014-04-16  6b6333d6f62cd65c9db0be7a1ab0e626
+
+    35020-0001-Data.tsv                 -       22,049    2264    2014-04-16  72297490ea41457aed5896318b0885e4
+
+    35020-0001-Data.txt                 3147    22,049    2264    2014-04-16  fca08a4452dc8cea8b3af697a1c266fa
+
+    35020-0001-Setup.dct                -       -         -       2014-04-16  451893d758ee2d58809b2a6669284604
+
+    35020-0001-Setup.do                 -       -         -       2014-04-16  cdb89529bdb60c1d1815b8fb5b405510
+
+    35020-0001-Setup.sas                -       -         -       2014-04-16  9e6a4c9d755cc22eb38ad2233e141f84
+
+    35020-0001-Setup.sps                -       -         -       2014-04-16  f6b785120ff957c2e59f8d8dbf2d2e9d
+

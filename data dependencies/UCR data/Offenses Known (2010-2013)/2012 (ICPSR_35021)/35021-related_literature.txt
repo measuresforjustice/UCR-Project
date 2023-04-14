@@ -1,0 +1,879 @@
+Bibliography
+Uniform Crime Reporting Program Data: Offenses Known and Clearances by
+Arrest, 2012
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 35021. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. 
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. Ades, James; Mishra, Jyoti, "Education and Crime Across America:
+Inequity's Cost." Sep 2020..
+Abstract: https://www.researchgate.net/publication/344260626_Education_and_Crime_Across_America_Inequity's_Cost
+
+2. Al-Naiem, Kariar, "Pentagon 1033 and Minority Threat: Examining 1033
+Equipment Acquisitions by Law Enforcement Agencies from 2006-2015." Thesis,
+San Diego State University, 2021.
+Abstract: https://www.researchgate.net/publication/344260626_Education_and_Crime_Across_America_Inequity's_Cost
+
+3. Aldford, Catherine, "How Medical Marijuana Laws Affect Crime Rates." Aug
+2014..
+Full text PDF: http://people.virginia.edu/~cea9e/website_files/alford_mml_and_crime.pdf
+
+4. Aldossari, Mobark Q.; Kim, Dan J., "Does more IT utilization improve
+police performance?." Presented at the Americas Conference on Information
+Systems 2017, Association for Information Systems, Boston, MA, Aug 10-12,
+2017.
+Full text PDF: https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1256&context=amcis2017
+
+5. Amin, Raid; Nabors, Nicole S.; Nelson, Arlene M.; Saqlain, Murshid;
+Kulldorff, Martin, "Geographical clusters of rape in the United States:
+2000-2012." Statistics and Public Policy. 2015, 2, (1), 1 - 6. DOI:
+10.1080/2330443X.2015.1092899
+Full text PDF: https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1256&context=amcis2017
+
+6. Argun, Ugur; Daglar, Murat, "Examination of Routine Activities Theory by
+the property
+crime." International Journal of Human Sciences. 2016, 13, (1), 1188 -
+1198. DOI: 10.14687/ijhs.v13i1.3665
+Full text PDF: https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1256&context=amcis2017
+
+7. Arteaga, Carolina; Barone, Victoria, "The Marketing of Prescription
+Opioids and Its Enduring Effects." Apr 19, 2021..
+Full text PDF: https://static1.squarespace.com/static/5664c583e4b0c0bb910ceb3b/t/607db361bdd62e5acfdc915f/1618850659918/Opioids_ArteagaBarone_Apr192021.pdf
+
+8. Atems, Bebonchu, "Identifying the dynamic effects of income inequality
+on crime." Oxford Bulletin of Economics and Statistics. in press 2020,.
+DOI: 10.1111/obes.12359
+Full text PDF: https://static1.squarespace.com/static/5664c583e4b0c0bb910ceb3b/t/607db361bdd62e5acfdc915f/1618850659918/Opioids_ArteagaBarone_Apr192021.pdf
+
+9. Banks, Duren; Hendrix, Joshua; Hickman, Matthew; Kyckelhahn, Tracey,
+"National Sources of Law Enforcement Employment Data." Program Report. NCJ
+249681, Washington, DC: U.S. Department of Justice, Office of Justice
+Programs, Bureau of Justice Statistics, Oct 4, 2016.
+Abstract: http://www.bjs.gov/index.cfm?ty=pbdetail&iid=5600&ed2f26df2d9c416fbddddd2330a778c6=zvtmpntmas-zfmsfvnm
+Full text: http://www.bjs.gov/content/pub/ascii/nsleed.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/nsleed.pdf
+This report describes and compares three law enforcement employment data
+sources: 1) the FBI 's Uniform Crime Reporting (UCR) Program, 2) the Census
+Bureau s Annual Survey of Public Employment and Payroll (ASPEP), and 3) the
+Bureau of Justice Statistics  Census of State and Local Law Enforcement
+Agencies (CSLLEA). The three sources provide information about the nature
+and scope of law enforcement employment in the United States. The sources
+use different definitions and vary in their periodicity and levels of
+coverage. This report provides recommended uses for the data sources.
+
+10. Barnett-Ryan, Cynthia; Griffith, Emily H., "The dynamic nature of crime
+statistics." In The Wiley Handbook on the Psychology of Violence. 7 - 23,
+Chichester, UK: John Wiley & Sons, Ltd,2016. DOI: 10.1002/9781118303092.ch1
+Abstract: http://www.bjs.gov/index.cfm?ty=pbdetail&iid=5600&ed2f26df2d9c416fbddddd2330a778c6=zvtmpntmas-zfmsfvnm
+Full text: http://www.bjs.gov/content/pub/ascii/nsleed.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/nsleed.pdf
+This report describes and compares three law enforcement employment data
+sources: 1) the FBI 's Uniform Crime Reporting (UCR) Program, 2) the Census
+Bureau s Annual Survey of Public Employment and Payroll (ASPEP), and 3) the
+Bureau of Justice Statistics  Census of State and Local Law Enforcement
+Agencies (CSLLEA). The three sources provide information about the nature
+and scope of law enforcement employment in the United States. The sources
+use different definitions and vary in their periodicity and levels of
+coverage. This report provides recommended uses for the data sources.
+
+11. Baumgartner, Frank R.; Lyman, Tim, "Louisiana death-sentenced cases and
+their reversals, 1976-2015." Journal of Race, Gender, and Poverty. 2016, 7,
+58 - 75.
+Abstract: http://www.bjs.gov/index.cfm?ty=pbdetail&iid=5600&ed2f26df2d9c416fbddddd2330a778c6=zvtmpntmas-zfmsfvnm
+Full text: http://www.bjs.gov/content/pub/ascii/nsleed.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/nsleed.pdf
+This report describes and compares three law enforcement employment data
+sources: 1) the FBI 's Uniform Crime Reporting (UCR) Program, 2) the Census
+Bureau s Annual Survey of Public Employment and Payroll (ASPEP), and 3) the
+Bureau of Justice Statistics  Census of State and Local Law Enforcement
+Agencies (CSLLEA). The three sources provide information about the nature
+and scope of law enforcement employment in the United States. The sources
+use different definitions and vary in their periodicity and levels of
+coverage. This report provides recommended uses for the data sources.
+
+12. Beck, Brenden, "Broken windows in the cul-de-sac? Race/ethnicity and
+quality-of-life policing in the changing suburbs." Crime and Delinquency.
+in press 2017,. DOI: 10.1177/0011128717739568
+Abstract: http://www.bjs.gov/index.cfm?ty=pbdetail&iid=5600&ed2f26df2d9c416fbddddd2330a778c6=zvtmpntmas-zfmsfvnm
+Full text: http://www.bjs.gov/content/pub/ascii/nsleed.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/nsleed.pdf
+This report describes and compares three law enforcement employment data
+sources: 1) the FBI 's Uniform Crime Reporting (UCR) Program, 2) the Census
+Bureau s Annual Survey of Public Employment and Payroll (ASPEP), and 3) the
+Bureau of Justice Statistics  Census of State and Local Law Enforcement
+Agencies (CSLLEA). The three sources provide information about the nature
+and scope of law enforcement employment in the United States. The sources
+use different definitions and vary in their periodicity and levels of
+coverage. This report provides recommended uses for the data sources.
+
+13. Bondurant, Samuel R., "Essays on Health and Abuse." Texas A&M
+University, 2018.
+Abstract: http://www.bjs.gov/index.cfm?ty=pbdetail&iid=5600&ed2f26df2d9c416fbddddd2330a778c6=zvtmpntmas-zfmsfvnm
+Full text: http://www.bjs.gov/content/pub/ascii/nsleed.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/nsleed.pdf
+This report describes and compares three law enforcement employment data
+sources: 1) the FBI 's Uniform Crime Reporting (UCR) Program, 2) the Census
+Bureau s Annual Survey of Public Employment and Payroll (ASPEP), and 3) the
+Bureau of Justice Statistics  Census of State and Local Law Enforcement
+Agencies (CSLLEA). The three sources provide information about the nature
+and scope of law enforcement employment in the United States. The sources
+use different definitions and vary in their periodicity and levels of
+coverage. This report provides recommended uses for the data sources.
+
+14. Bondurant, Samuel R.; Lindo, Jason M.; Swensen, Isaac D., "Substance
+Abuse Treatment Centers and Local Crime." NBER Working Paper No. 22610.
+Cambridge, MA: National Bureau of Economic Research, Sep 2016. DOI:
+10.3386/w22610
+Abstract: http://www.bjs.gov/index.cfm?ty=pbdetail&iid=5600&ed2f26df2d9c416fbddddd2330a778c6=zvtmpntmas-zfmsfvnm
+Full text: http://www.bjs.gov/content/pub/ascii/nsleed.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/nsleed.pdf
+This report describes and compares three law enforcement employment data
+sources: 1) the FBI 's Uniform Crime Reporting (UCR) Program, 2) the Census
+Bureau s Annual Survey of Public Employment and Payroll (ASPEP), and 3) the
+Bureau of Justice Statistics  Census of State and Local Law Enforcement
+Agencies (CSLLEA). The three sources provide information about the nature
+and scope of law enforcement employment in the United States. The sources
+use different definitions and vary in their periodicity and levels of
+coverage. This report provides recommended uses for the data sources.
+
+15. Bose, Amartya, "Racial Disparities in Law Enforcement: The Role of In-
+Group Bias and Electoral Pressures." Thesis, University of New South Wales,
+2020.
+Full text PDF: http://unsworks.unsw.edu.au/fapi/datastream/unsworks:66488/SOURCE02?view=true
+
+16. Carothers, Justin S., "Formulating New Models in the More Guns, Less
+Crime Debate." Thesis, Arkansas State University, 2016.
+Full text PDF: http://unsworks.unsw.edu.au/fapi/datastream/unsworks:66488/SOURCE02?view=true
+
+17. Carriere, Kevin R.; Encinosa, William, "The risks of operational
+militarization: Increased conflict against militarized police." Peace
+Economics, Peace Science and Public Policy. Aug 2017, 23, (3),. DOI:
+10.1515/peps-2017-0016
+Full text PDF: http://unsworks.unsw.edu.au/fapi/datastream/unsworks:66488/SOURCE02?view=true
+
+18. Charlton, Diane; James, Alexander; Smith, Brock, "Seasonal Agricultural
+Activity and Crime." Jul 30, 2021..
+Full text PDF: http://www.brockdsmith.com/uploads/1/3/8/9/13892945/aglabor_crime.pdf
+
+19. Chu, Yu-Wei L.; Townsend, Wilbur, "Joint culpability: The effects of
+medical marijuana laws on crime." Journal of Economic Behavior and
+Organization. in press 2018,. DOI: 10.1016/j.jebo.2018.07.003
+Full text PDF: http://www.brockdsmith.com/uploads/1/3/8/9/13892945/aglabor_crime.pdf
+
+20. Clifford, Janice E.; Tetzlaff-Bemiller, Melissa J.; Jarvis, John P.;
+Huff-Corzine, Lin; Weaver, Greg S.; Corzine, Jay, "Fatal factors for
+preschoolers: Victims, offenders, and context." Homicide Studies. Feb 2017,
+21, (1), 3 - 20. DOI: 10.1177/1088767915624948
+Full text PDF: http://www.brockdsmith.com/uploads/1/3/8/9/13892945/aglabor_crime.pdf
+
+21. Cobb, Stephen, "VB2015 paper: Sizing cybercrime: incidents and
+accidents, hints and allegations." Bulletin. Abingdon, Oxford, United
+Kingdom: Virus Bulletin, 2015.
+Full text: https://www.virusbulletin.com/virusbulletin/2016/02/vb2015-paper-sizing-cybercrime-incidents-and-accidents-hints-and-allegations/
+Full text PDF: https://www.virusbulletin.com/uploads/pdf/conference/vb2015/Cobb-VB2015.pdf
+
+22. Cockerham, James, "Criminal Justice Institutions: Human Behavior in a
+System of Neutral Competence." Dissertation, Florida State University,
+2020.
+Full text: https://www.virusbulletin.com/virusbulletin/2016/02/vb2015-paper-sizing-cybercrime-incidents-and-accidents-hints-and-allegations/
+Full text PDF: https://www.virusbulletin.com/uploads/pdf/conference/vb2015/Cobb-VB2015.pdf
+
+23. Cohen, Jeffrey W., "Criminal justice as a male enterprise." In
+Freiburger, Tina L.; Marcum, Catherine D., Women in the Criminal Justice
+System: Tracking the Journey of Females and Crime. 31 - 46, Boca Raton, FL:
+CRC Press,2015.
+Full text: https://www.virusbulletin.com/virusbulletin/2016/02/vb2015-paper-sizing-cybercrime-incidents-and-accidents-hints-and-allegations/
+Full text PDF: https://www.virusbulletin.com/uploads/pdf/conference/vb2015/Cobb-VB2015.pdf
+
+24. Corsaro, Nicholas; Wilson, Jeremy M., "The effects of police
+contracting on crime: An examination of Compton, California." Journal of
+Experimental Criminology. Mar 2018, 14, (1), 59 - 81. DOI: 10.1007/s11292-
+017-9310-6
+Full text: https://www.virusbulletin.com/virusbulletin/2016/02/vb2015-paper-sizing-cybercrime-incidents-and-accidents-hints-and-allegations/
+Full text PDF: https://www.virusbulletin.com/uploads/pdf/conference/vb2015/Cobb-VB2015.pdf
+
+25. Depetris-Chauvin, Emilio, "Fear of Obama: An empirical study of the
+demand for guns and the U.S. 2008 presidential election." Journal of Public
+Economics. Oct 2015, 130, 66 - 79. DOI: 10.1016/j.jpubeco.2015.04.008
+Full text: https://www.virusbulletin.com/virusbulletin/2016/02/vb2015-paper-sizing-cybercrime-incidents-and-accidents-hints-and-allegations/
+Full text PDF: https://www.virusbulletin.com/uploads/pdf/conference/vb2015/Cobb-VB2015.pdf
+
+26. Doucette, Mitchell L.; Green, Christa; Dineen, Jennifer; Shapiro,
+David; Raissian, Kerri M., "Impact of ShotSpotter technology on firearm
+homicides and arrests among large metropolitan counties: A longitudinal
+analysis, 1999-2016." Journal of Urban Health. 2021,. DOI: 10.1007/s11524-
+021-00515-4
+Full text: https://www.virusbulletin.com/virusbulletin/2016/02/vb2015-paper-sizing-cybercrime-incidents-and-accidents-hints-and-allegations/
+Full text PDF: https://www.virusbulletin.com/uploads/pdf/conference/vb2015/Cobb-VB2015.pdf
+
+27. Douglas, Stephen, "The effects of body-worn cameras on violent police
+victimization." Policing (Oxford). in press 2020,. DOI:
+10.1093/police/paaa032
+Full text: https://www.virusbulletin.com/virusbulletin/2016/02/vb2015-paper-sizing-cybercrime-incidents-and-accidents-hints-and-allegations/
+Full text PDF: https://www.virusbulletin.com/uploads/pdf/conference/vb2015/Cobb-VB2015.pdf
+
+28. Eck, John E.; Rossmo, D.K., "The new detective: Rethinking criminal
+investigations." Criminology and Public Policy. Aug 2019, 18, (3), 601 -
+622. DOI: 10.1111/1745-9133.12450
+Full text: https://www.virusbulletin.com/virusbulletin/2016/02/vb2015-paper-sizing-cybercrime-incidents-and-accidents-hints-and-allegations/
+Full text PDF: https://www.virusbulletin.com/uploads/pdf/conference/vb2015/Cobb-VB2015.pdf
+
+29. Eckhouse, Laurel, "Metrics management and bureaucratic accountability:
+Evidence from policing." American Journal of Political Science. in press
+2021,. DOI: 10.1111/ajps.12661
+Full text: https://www.virusbulletin.com/virusbulletin/2016/02/vb2015-paper-sizing-cybercrime-incidents-and-accidents-hints-and-allegations/
+Full text PDF: https://www.virusbulletin.com/uploads/pdf/conference/vb2015/Cobb-VB2015.pdf
+
+30. Emigh-Guy, Meredith, "Is Stranger-Perpetrated Homicide Responsible for
+the Decrease in Solved Cases? An Analysis of the Characteristics of
+Homicide from 1980-2015." Dissertation, University of New Haven, 2019.
+Full text: https://www.virusbulletin.com/virusbulletin/2016/02/vb2015-paper-sizing-cybercrime-incidents-and-accidents-hints-and-allegations/
+Full text PDF: https://www.virusbulletin.com/uploads/pdf/conference/vb2015/Cobb-VB2015.pdf
+
+31. Fay, Robert E.; Diallo, Mamadou, "Developmental Estimates of
+Subnational Crime Rates Based on the National Crime Victimization Survey."
+Bureau of Justice Statistics Research and Development Paper R&DP-2015:01.
+NCJ 249238 , Washington, DC: Department of Justice, Office of Justice
+Program, Bureau of Justice Statistics, Dec 17 2015.
+Abstract: http://www.bjs.gov/index.cfm?ty=pbdetail&iid=5499&utm_source=juststats-121715&utm_medium=email&utm_content=descrbncvs%20Head&utm_campaign=juststats&ed2f26df2d9c416fbddddd2330a778c6=nrrnxnxpno-nzudzrbu
+Full text PDF: http://www.bjs.gov/content/pub/pdf/descrbncvs.pdf
+Developmental Estimates of Subnational Crime Rates Based on the National
+Crime Victimization Survey presents rates of violent and property crime
+victimization for the 50 states and select metropolitan statistical areas,
+generated using small-"area estimation (SAE) methods. The report describes
+the statistical modeling approach used to produce state-"level estimates
+from the National Crime Victimization Survey data and auxiliary data
+sources. It compares SAE victimization rates for the 50 states from 1999 to
+2013 to FBI crime rates from the Uniform Crime Reporting (UCR) Program. It
+shows trends in criminal victimization rates for each state from 1999 to
+2013. State-"level estimates of intimate partner violence are also
+presented.
+
+32. Fisher, Marina; Miller, Nathaniel; Walter, Lindsay; Selbin, Jeffrey,
+"California's new vagrancy laws: The growing enactment and enforcement of
+anti-homeless laws in the Golden State." University of California, Berkeley
+Law Policy Advocacy Clinic, Feb 2015. DOI: 10.2139/ssrn.2558944
+Abstract: https://ssrn.com/abstract=2558944
+
+33. Garner, Maryah; Harvey, Anna; Johnson, Hunter, "Estimating Effects of
+Affirmative Action in Policing: A Replication and Extension of Previous
+Research." 2019..
+Full text PDF: https://publicsafetylab.org/s/AA_Crime_Revised.pdf
+
+34. Garner, Maryah; Harvey, Anna; Johnson, Hunter, "Estimating effects of
+affirmative action in policing: A replication and extension." International
+Review of Law and Economics. in press 2019,. DOI:
+10.1016/j.irle.2019.105881
+Full text PDF: https://publicsafetylab.org/s/AA_Crime_Revised.pdf
+
+35. Gavrilova, Evelina; Kamada, Takuma; Zoutman, Floris, "Is Legal Pot
+Crippling Mexican Drug Trafficking Organizations? The Effect of Medical
+Marijuana Laws
+on US Crime." NHH Discussion Paper, Jan 2015..
+Full text PDF: http://brage.bibsys.no/xmlui/bitstream/handle/11250/274521/0515.pdf?sequence=1&isAllowed=y
+
+36. Goerger, Samantha; Mummolo, Jonathan; Westwood, Sean, "Which Police
+Departments Want Reform? Barriers to Evidence-Based Policymaking." Mar 13,
+2020..
+Full text PDF: https://scholar.princeton.edu/sites/default/files/jmummolo/files/gmw_3_2020_with_si.pdf
+
+37. Goldstein, Rebecca; Sances, Michael W.; You, Hye, "Exploitative
+revenues, law enforcement, and the quality of government services." 2017?..
+Full text PDF: http://www.law.nyu.edu/sites/default/files/upload_documents/YOU_policing.pdf
+
+38. Goldstein, Rebecca; Sances, Michael W.; You, Hye Young, "Exploitative
+revenues, law enforcement, and the quality of government service." Urban
+Affairs Review. in press 2018,. DOI: 10.1177/1078087418791775
+Full text PDF: http://www.law.nyu.edu/sites/default/files/upload_documents/YOU_policing.pdf
+
+39. Green, David, "The trump hypothesis: Testing immigrant populations as a
+determinant of violent and drug-related crime in the United States." Social
+Science Quarterly. Sep 2016, 97, (3), 506 - 524. DOI: 10.1111/ssqu.12300
+Full text PDF: http://www.law.nyu.edu/sites/default/files/upload_documents/YOU_policing.pdf
+
+40. Han, Minyu; Kwak, Jihun; Sul, Donggyu, "Two-way fixed effects versus
+panel factor-augmented estimators: Asymptotic comparison among pretesting
+procedures." Econometric Reviews. in press 2021,. DOI:
+10.1080/07474938.2021.1957282
+Full text PDF: http://www.law.nyu.edu/sites/default/files/upload_documents/YOU_policing.pdf
+
+41. Harris, Matthew C.; Park, Jinseong; Bruce, Donald J.; Murray, Matthew
+N., "Peacekeeping force: Effects of providing tactical equipment to local
+law enforcement." American Economic Journal: Economic Policy. Aug 2017, 9,
+(3), 291 - 313. DOI: 10.1257/pol.20150525
+Full text PDF: http://www.law.nyu.edu/sites/default/files/upload_documents/YOU_policing.pdf
+
+42. Holmgren, Roland, "Oakland Police Department and Intelligence-Led
+Policing." 2021..
+Full text PDF: https://www.rohlmgrn.net/uploads/1/2/7/2/127291782/opd_and_intel_led_policing.pdf
+
+43. Johnson, Calvin; Laisne, Mathilde; Wool, Jon, "Criminal Justice:
+Changing Course on Incarceration." The New Orleans Index at Ten. Data
+Center, Jun 2015.
+Abstract: http://hdl.handle.net/10590/4359
+
+44. Johnson, Calvin; Laisne, Mathilde; Wool, Jon, "Justice in Katrina's
+Wake: Changing Course on Incarceration in New Orleans." Vera Institute of
+Justice, Nov 2015.
+Full text PDF: https://www.prisonpolicy.org/scans/vera/justice-in-katrinas-wake.pdf
+
+45. Jordan, Jeffrey L.; Mathur, Aparna; Munasib, Abdul; Roy, Devesh, "Did
+Right-to-Work Laws Impact Income Inequality?
+Evidence from U.S. States Using the Synthetic
+Control Method
+." AEI Economics Working Paper 2016-07. Washington, DC: American Enterprise
+Institute, Mar 2016.
+Full text PDF: https://www.prisonpolicy.org/scans/vera/justice-in-katrinas-wake.pdf
+
+46. Kamada, Takuma, "The Emergence of the Crack Epidemic and City-to-Suburb
+Mobility Between and Within Ethno-Racial Groups." Feb 12, 2020.. DOI:
+10.31219/osf.io/wkxqv
+Abstract: https://ideas.repec.org/p/osf/socarx/wkxqv.html
+
+47. Kang, Seong C., "Volunteer involvement and organizational performance:
+The use of volunteer officers in public safety." Public Performance and
+Management Review. in press 2018,. DOI: 10.1080/15309576.2018.1483830
+Abstract: https://ideas.repec.org/p/osf/socarx/wkxqv.html
+
+48. Kaplan, Jacob; Chalfin, Aaron, "More cops, fewer prisoners?."
+Criminology and Public Policy. in press 2019,. DOI: 10.1111/1745-9133.12424
+Abstract: https://ideas.repec.org/p/osf/socarx/wkxqv.html
+
+49. Karstedt, Susanne; Bergin, Tiffany; Koch, Michael, "Critical junctures
+and conditions of change: Exploring the fall of prison populations in US
+states." Social and Legal Studies. in press 2018, 1 - 23. DOI:
+10.1177/0964663917747342
+Abstract: http://journals.sagepub.com/doi/abs/10.1177/0964663917747342
+
+50. Keel, Tim; Jarvis, John; Signor, Kaitlin, "Exploring recent trends in
+police responses to homicide, violence, and property crimes: A glimpse at
+trends in 81 agencies since 2000." Presented at the Proceedings of the 2015
+Meeting of the Homicide Research Working Group, Homicide Research Working
+Group, Clearwater Beach, FL, Jun 12, 2015.
+Full text PDF: https://wzukusers.storage.googleapis.com/user-31670731/documents/5a654eb9e25444RtaBZu/proceedings_2015.pdf#page=86
+
+51. Koski, Susan V.; Bowers, David; Costanza, S. E., "State and
+institutional correlates of reported victimization and consensual sexual
+activity in juvenile correctional facilities." Child and Adolescent Social
+Work Journal. Jun 2018, 35, (3), 243 - 255. DOI: 10.1007/s10560-017-0520-6
+Full text PDF: https://wzukusers.storage.googleapis.com/user-31670731/documents/5a654eb9e25444RtaBZu/proceedings_2015.pdf#page=86
+
+52. Koslicki, Wendy M.; Lytle, Daniel J.; Willits, Dale W.; Brooks,
+Rachael, "'Rhetoric without reality' or effective policing strategy? An
+analysis of the relationship between community policing and police fatal
+force." Journal of Criminal Justice. in press 2021,. DOI:
+10.1016/j.jcrimjus.2020.101730
+Full text PDF: https://wzukusers.storage.googleapis.com/user-31670731/documents/5a654eb9e25444RtaBZu/proceedings_2015.pdf#page=86
+
+53. Koslicki, Wendy M.; Willits, Dale, "The iron fist in the velvet glove?
+Testing the militarization/community policing paradox." International
+Journal of Police Science and Management. Jun 2018, 20, (2), 143 - 154.
+DOI: 10.1177/1461355718774581
+Full text PDF: https://wzukusers.storage.googleapis.com/user-31670731/documents/5a654eb9e25444RtaBZu/proceedings_2015.pdf#page=86
+
+54. Lartey, Jamiles; Li, Weihua, "New FBI data: Violent crime still
+falling." Updated Sep 30, 2019, Accessed Jan 21, 2020.
+Full text: https://www.themarshallproject.org/2019/09/30/new-fbi-data-violent-crime-still-falling
+
+55. Lautenschlager, Rachel; Omori, Marisa, "Racial threat, social
+(dis)organization, and the ecology of police: Towards a macro-level
+understanding of police use-of-force in communities of color." Justice
+Quarterly. 2019, 36, (6), 1050 - 1071. DOI: 10.1080/07418825.2018.1480792
+Full text: https://www.themarshallproject.org/2019/09/30/new-fbi-data-violent-crime-still-falling
+
+56. Leal, Wanda; Gertz, Marc; Piquero, Alex R., "The National Felon
+League?: A comparison of NFL arrests to general population arrests."
+Journal of Criminal Justice. Sep-Oct 2015, 43, (5), 397 - 403. DOI:
+10.1016/j.jcrimjus.2015.08.001
+Full text: https://www.themarshallproject.org/2019/09/30/new-fbi-data-violent-crime-still-falling
+
+57. Levy, Brian L.; Levy, Denise L., "When love meets hate: The
+relationship between state policies on gay and lesbian rights and hate
+crime incidence." Social Science Research. Jan 2017, 61, 142 - 159. DOI:
+10.1016/j.ssresearch.2016.06.008
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/27886725
+
+58. Lindo, Jason M.; Swensen, Isaac D.; Waddell, Glen R., "Effects of
+violent media content: Evidence from the rise of the UFC." Journal of
+Health Economics. in press 2022,. DOI: 10.1016/j.jhealeco.2022.102623
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/27886725
+
+59. Lindo, Jason M.; Swensen, Isaac D.; Waddell, Glen R., "Long-Term
+Effects of Violent Media Content." Jul 2019..
+Full text PDF: https://www.fsb.muohio.edu/lij14/411_read_Lindo.pdf
+
+60. Lindo, Jason M.; Swensen, Isaac D.; Waddell, Glen R., "Persistent
+Effects of Violent Media Content." Oct 2019..
+Full text PDF: http://pages.uoregon.edu/waddell/papers/LSW_MediaViolence_201910.pdf
+
+61. Lindo, Jason M.; Swensen, Isaac D.; Waddell, Glen R., "Persistent
+Effects of Violent Media Content." NBER Working Paper No. 27240. Cambridge,
+MA: National Bureau of Economic Research, May 2020. DOI: 10.3386/w27240
+Abstract: https://www.nber.org/papers/w27240
+Full text PDF: https://www.nber.org/papers/w27240.pdf
+
+62. Lu, Ruibin; Willits, Dale; Stohr, Mary K.; Makin, David; Snyder, John;
+Lovrich, Nicholas; Meize, Mikala; Stanton, Duane; Wu, Guangzhen; Hemmens,
+Craig, "The cannabis effect on crime: Time-series analysis of crime in
+Colorado and Washington State." Justice Quarterly. in press 2019,. DOI:
+10.1080/07418825.2019.1666903
+Abstract: https://www.nber.org/papers/w27240
+Full text PDF: https://www.nber.org/papers/w27240.pdf
+
+63. Lum, Cynthia; Wellford, Charles; Scott, Thomas L.; Vovak, Heather,
+"Identifying Effective Investigative Practices: A National Study Using
+Trajectory Analysis." Trajectories of U.S. Crime Clearance Rates [Phase I
+Report]. Fairfax, VA: Center for Evidence-Based Crime Policy, Mar 2016.
+Full text PDF: https://cebcp.org/wp-content/evidence-based-policing/TrajectoryClearance.pdf
+
+64. Makin, David A.; Willits, Dale W.; Wu, Guangzhen; DuBois, Kathryn O.;
+Lu, Ruibin; Stohr, Mary K.; Koslicki, Wendy; Stanton, Duane; Hemmens,
+Craig; Snyder, John; Lovrich, Nicholas P., "Marijuana legalization and
+crime clearance rates: Testing proponent assertions in Colorado and
+Washington State." Police Quarterly. in press 2018,. DOI:
+10.1177/1098611118786255
+Full text PDF: https://cebcp.org/wp-content/evidence-based-policing/TrajectoryClearance.pdf
+
+65. Mancik, Ashley M.; Parker, Karen F., "Homicide clearances during pre-
+and post-U.S. crime drop eras: The role of structural predictors and
+demographic shifts, 19762015." Journal of Crime and Justice. in press
+2018,. DOI: 10.1080/0735648X.2018.1526101
+Full text PDF: https://cebcp.org/wp-content/evidence-based-policing/TrajectoryClearance.pdf
+
+66. Masterson, Daniel; Yasenov, Vasil I., "Does Halting Refugee
+Resettlement Reduce Crime? Evidence from the United States Refugee Ban."
+IPL Working Paper No. 18-03. Immigration Policy Lab, Dec 2018. DOI:
+10.31235/osf.io/w2x7p
+Abstract: https://immigrationlab.org/working-paper-series/halting-refugee-resettlement-reduce-crime-evidence-united-states-refugee-ban/
+
+67. McCarthy, Shane, "The Relationship Between Universal Background Check
+Laws for Firearm Sales and Rates of Violent Crime at the State Level."
+Thesis, Georgetown University, 2017.
+Abstract: http://hdl.handle.net/10822/1043958
+
+68. McNichols, Drew T., "Essays in Labor Economics." Dissertation,
+University of Oregon, 2019.
+Abstract: http://hdl.handle.net/10822/1043958
+
+69. McSkimming, Michael; Guler, Ahmet; Miller, Scott E., "Understanding the
+motivations of citizens to join a community posse initiative: A qualitative
+analysis." Journal of Qualitative Criminal Justice and Criminology. 2020,
+9, (1),. DOI: 10.21428/88de04a1.b3613b99
+Abstract: http://hdl.handle.net/10822/1043958
+
+70. Mello, Steven, "More COPS, Less Crime." Princeton, NJ: Princeton
+University Industrial Relations Section, Jan 3, 2017.
+Full text PDF: http://www.princeton.edu/~smello/papers/Cops.pdf
+
+71. Moinester, Margot, "A Look to the Interior: Trends in U.S. Immigration
+Removals by Criminal Conviction Type, Gender, and Region of Origin, Fiscal
+Years 2003-2015." American Behavioral Scientist. in press 2019,. DOI:
+10.1177/0002764219835276
+Full text PDF: http://www.princeton.edu/~smello/papers/Cops.pdf
+
+72. Moore, Nina M., "Congress as power player: Racial justice versus 'law
+and order'." In The Political Roots of Racial Tracking in American Criminal
+Justice. 136 - 165, New York, NY: Cambridge University Press,2015.
+Full text PDF: http://www.princeton.edu/~smello/papers/Cops.pdf
+
+73. Moore, Nina M., "The politics principle and the party playbook." In The
+Political Roots of Racial Tracking in American Criminal Justice. 166 - 218,
+New York, NY: Cambridge University Press,2015.
+Full text PDF: http://www.princeton.edu/~smello/papers/Cops.pdf
+
+74. Nix, Justin; Campbell, Bradley A.; Byers, Edward H.; Alpert, Geoffrey
+P., "A bird's eye view of civilians killed by police in 2015: Further
+evidence of implicit bias." Criminology and Public Policy. Feb 2017, 16,
+(1), 309 - 340. DOI: 10.1111/1745-9133.12269
+Full text PDF: http://www.princeton.edu/~smello/papers/Cops.pdf
+
+75. Obinna, Denise N., "American Deportation and the Non-Criminal
+Criminals." Dissertation, Ohio State University, 2015.
+Full text PDF: http://www.princeton.edu/~smello/papers/Cops.pdf
+
+76. Oluwoye, J.O.; Nicolas-Kassama, L.F., "Mann-Kendall test for monotonic
+trend analysis of driving under the intoxicated (DUI) arrests in the United
+States: 1995-2013." International Journal of Scientific Advances. Sep-Oct
+2021, 2, (5), 886 - 895. DOI: 10.51542/ijscia.v2i5.36
+Full text PDF: https://www.ijscia.com/wp-content/uploads/2021/10/Volume2-Issue5-Sep-Oct-No.184-886-895.pdf
+
+77. Oyana , Tonny J.; Matthews-Juarez, Patricia; Cormier, Stephania A.; Xu,
+Xiaoran; Juarez, Paul D., "Using an external exposome framework to examine
+pregnancy-related morbidities and mortalities: Implications for health
+disparities research." International Journal of Environmental Research and
+Public Health. Dec 2015, 13, (1),. DOI: 10.3390/ijerph13010013
+Full text PDF: https://www.ijscia.com/wp-content/uploads/2021/10/Volume2-Issue5-Sep-Oct-No.184-886-895.pdf
+
+78. Paez, Rocio A., "Serving Their Country and Their Communities? An
+Exploratory Study of the Impact of Military Presence on County-Level Crime
+Rates." Dissertation, University of Arkansas at Little Rock, 2017.
+Full text PDF: https://www.ijscia.com/wp-content/uploads/2021/10/Volume2-Issue5-Sep-Oct-No.184-886-895.pdf
+
+79. Paliwal, Akshay; Cabrera, Nathaly; Dougherty, Jamie; Klofas, John,
+"Comparison of Cities' Homicide Rates over Time: 2015 Data." Working Paper
+#2016-07. Rochester, NY: Rochester Institute of Technology, Center for
+Public Safety Initiatives, Jan 2016.
+Full text PDF: https://www.rit.edu/cla/criminaljustice/sites/rit.edu.cla.criminaljustice/files/images/2016-07%20-%20ComparisonofCitiesHomicideRatesOverTime-2016_Final.pdf
+
+80. Patel, Amit; Ver Haeghe, Kelly; DiBlasi, Michael; Ruggiero, Michael;
+Morgan, Melissa; Pollock, John C., "Nationwide newspaper coverage of gun
+safety: A community structure approach." Presented at the DC Health
+Communication Conference, Department of Communication at George Mason
+University, Fairfax, VA, Apr 27-29, 2017.
+Abstract: https://www.researchgate.net/publication/315844421_Nationwide_US_Newspaper_Coverage_of_Gun_Safety_A_Community_Structure_Approach
+
+81. Patel, Jayshree D.; Fadaei, Reza, "The economic impact of crimes in the
+United States: A statistical analysis on education, unemployment and
+poverty." American Journal of Engineering Research. Dec 2017, 6, (12), 283
+- 288.
+Full text PDF: http://www.ajer.org/papers/v6(12)/ZQ0612283288.pdf
+
+82. Perry, Steven W., "Tribal Crime Data Collection Activities, 2015."
+Technical Report. NCJ 248785, Washington, DC: United States Department of
+Justice, Office of Justice Programs, Bureau of Justice Statistics, Jul
+2015.
+Abstract: https://www.ncjrs.gov/app/publications/abstract.aspx?id=270890
+Full text: http://www.bjs.gov/content/pub/ascii/tcdca15.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/tcdca15.pdf
+BJS released a solicitation to conduct the 2016 National Survey of Tribal
+Law Enforcement Agencies, which is the first BJS statistical collection
+that targets Bureau of Indian Affairs agencies and tribal law enforcement
+agencies in the lower 48 States and Alaska. BJS also convened a panel of
+justice professionals from State, local, and tribal law enforcement
+agencies and prosecutor offices for the purpose of informing the planning
+and development of two surveys of State and local justice agencies that
+service tribal lands. Data collection for the National Survey of Tribal
+Court Systems began in February 2015. The survey found that at mid-year
+2013, 2,287 inmates were confined in 79 Indian Country jails; this is a
+3.3-percent decrease from mid-year 2012. At mid-year 2014, local jails held
+approximately 10,400 American Indian and Alaska-Native (AIAN) inmates (1.4
+percent of the total jail inmate population). During 2012, 2,482 AIAN (both
+tribal and non-tribal) were arrested and booked by Federal law enforcement
+agencies; 1,255 were sentenced in U.S. district courts; 1,735 entered
+Federal prison, and 1,683 exited Federal prison. Data are also reported on
+the number of tribal law enforcement agencies reporting crime data to the
+Uniform Crime Reporting Program for 2012 and 2013. The number of tribes
+receiving 2015 Edward Byrne Memorial Justice Assistance grants are also
+reported, along with multiple funding opportunities in 2015 for improving
+tribal criminal history records and reporting persons prohibited from
+receiving or possessing a firearm.
+
+83. Pfaff, John F., "The complicated economics of prison reform." Michigan
+Law Review. Apr 2016, 114, 951 - 981.
+Abstract: https://www.ncjrs.gov/app/publications/abstract.aspx?id=270890
+Full text: http://www.bjs.gov/content/pub/ascii/tcdca15.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/tcdca15.pdf
+BJS released a solicitation to conduct the 2016 National Survey of Tribal
+Law Enforcement Agencies, which is the first BJS statistical collection
+that targets Bureau of Indian Affairs agencies and tribal law enforcement
+agencies in the lower 48 States and Alaska. BJS also convened a panel of
+justice professionals from State, local, and tribal law enforcement
+agencies and prosecutor offices for the purpose of informing the planning
+and development of two surveys of State and local justice agencies that
+service tribal lands. Data collection for the National Survey of Tribal
+Court Systems began in February 2015. The survey found that at mid-year
+2013, 2,287 inmates were confined in 79 Indian Country jails; this is a
+3.3-percent decrease from mid-year 2012. At mid-year 2014, local jails held
+approximately 10,400 American Indian and Alaska-Native (AIAN) inmates (1.4
+percent of the total jail inmate population). During 2012, 2,482 AIAN (both
+tribal and non-tribal) were arrested and booked by Federal law enforcement
+agencies; 1,255 were sentenced in U.S. district courts; 1,735 entered
+Federal prison, and 1,683 exited Federal prison. Data are also reported on
+the number of tribal law enforcement agencies reporting crime data to the
+Uniform Crime Reporting Program for 2012 and 2013. The number of tribes
+receiving 2015 Edward Byrne Memorial Justice Assistance grants are also
+reported, along with multiple funding opportunities in 2015 for improving
+tribal criminal history records and reporting persons prohibited from
+receiving or possessing a firearm.
+
+84. Poirrier, Alyssa, "Crime in Shale Counties: A Panel Data Regression
+Analysis of the Boom Years." Thesis, Duke University, 2016.
+Abstract: https://www.ncjrs.gov/app/publications/abstract.aspx?id=270890
+Full text: http://www.bjs.gov/content/pub/ascii/tcdca15.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/tcdca15.pdf
+BJS released a solicitation to conduct the 2016 National Survey of Tribal
+Law Enforcement Agencies, which is the first BJS statistical collection
+that targets Bureau of Indian Affairs agencies and tribal law enforcement
+agencies in the lower 48 States and Alaska. BJS also convened a panel of
+justice professionals from State, local, and tribal law enforcement
+agencies and prosecutor offices for the purpose of informing the planning
+and development of two surveys of State and local justice agencies that
+service tribal lands. Data collection for the National Survey of Tribal
+Court Systems began in February 2015. The survey found that at mid-year
+2013, 2,287 inmates were confined in 79 Indian Country jails; this is a
+3.3-percent decrease from mid-year 2012. At mid-year 2014, local jails held
+approximately 10,400 American Indian and Alaska-Native (AIAN) inmates (1.4
+percent of the total jail inmate population). During 2012, 2,482 AIAN (both
+tribal and non-tribal) were arrested and booked by Federal law enforcement
+agencies; 1,255 were sentenced in U.S. district courts; 1,735 entered
+Federal prison, and 1,683 exited Federal prison. Data are also reported on
+the number of tribal law enforcement agencies reporting crime data to the
+Uniform Crime Reporting Program for 2012 and 2013. The number of tribes
+receiving 2015 Edward Byrne Memorial Justice Assistance grants are also
+reported, along with multiple funding opportunities in 2015 for improving
+tribal criminal history records and reporting persons prohibited from
+receiving or possessing a firearm.
+
+85. Premkumar, Deepak, "Public Scrutiny and Police Effort: Evidence from
+Arrests and Crime After High-Profile Police Killings." Apr 1, 2021.. DOI:
+10.2139/ssrn.3715223
+Abstract: https://ssrn-com.proxy.lib.umich.edu/abstract=3715223
+
+86. Przeszlowski, Kimberly, "Community-Oriented Policing Implementation,
+Social Disorganization and Crime Rates in Small Cities." Thesis, Florida
+Atlantic University, 2016.
+Abstract: https://ssrn-com.proxy.lib.umich.edu/abstract=3715223
+
+87. Przeszlowski, Kimberly S.; Crichlow, Vaughn J., "An exploratory
+assessment of community-oriented policing implementation, social
+disorganization and crime in America." Social Sciences. Mar 2018, 7, (3),.
+DOI: 10.3390/socsci7030035
+Abstract: http://www.mdpi.com/2076-0760/7/3/35
+Full text: http://www.mdpi.com/2076-0760/7/3/35/htm
+Full text PDF: http://www.mdpi.com/2076-0760/7/3/35/pdf
+
+88. Pyo, Sunyoung, "Do body-worn cameras change law enforcement arrest
+behavior?." American Review of Public Administration. in press 2021,. DOI:
+10.1177/0275074020982688
+Abstract: http://www.mdpi.com/2076-0760/7/3/35
+Full text: http://www.mdpi.com/2076-0760/7/3/35/htm
+Full text PDF: http://www.mdpi.com/2076-0760/7/3/35/pdf
+
+89. Rhineberger-Dunn, Gayle; Briggs; Steven J.; Rader, Nicole, "Clearing
+crime in prime-time: The disjuncture between fiction and reality." American
+Journal of Criminal Justice. Jun 2016, 41, (2), 255 - 278. DOI:
+10.1007/s12103-015-9300-z
+Abstract: http://www.mdpi.com/2076-0760/7/3/35
+Full text: http://www.mdpi.com/2076-0760/7/3/35/htm
+Full text PDF: http://www.mdpi.com/2076-0760/7/3/35/pdf
+
+90. Rosenfeld, Richard, "Studying crime trends: Normal science and
+exogenous shocks." Criminology. Feb 2018, 56, (1), 5 - 26. DOI:
+10.1111/1745-9125.12170
+Abstract: http://www.mdpi.com/2076-0760/7/3/35
+Full text: http://www.mdpi.com/2076-0760/7/3/35/htm
+Full text PDF: http://www.mdpi.com/2076-0760/7/3/35/pdf
+
+91. Rosenfeld, Richard; Levin, Aaron, "Acquisitive crime and inflation in
+the United States: 1960-2012." Journal of Quantitative Criminology. Sep
+2016, 32, (3), 427 - 447. DOI: 10.1007/s10940-016-9279-8
+Abstract: http://www.mdpi.com/2076-0760/7/3/35
+Full text: http://www.mdpi.com/2076-0760/7/3/35/htm
+Full text PDF: http://www.mdpi.com/2076-0760/7/3/35/pdf
+
+92. Rowland, Olivia
+, "The Impact of the Great Recession on White-Collar Crime." Thesis, Baylor
+University, 2015.
+Abstract: http://www.mdpi.com/2076-0760/7/3/35
+Full text: http://www.mdpi.com/2076-0760/7/3/35/htm
+Full text PDF: http://www.mdpi.com/2076-0760/7/3/35/pdf
+
+93. Sabia, Joseph J.; Dave, Dhaval M.; Alotaibi, Fawaz; Rees, Daniel I.,
+"Is Recreational Marijuana a Gateway to Harder Drug Use and Crime?."
+Working Paper 29038. Cambridge, MA: National Bureau of Economic Research,
+Aug 2021.
+Full text PDF: https://www.nber.org/system/files/working_papers/w29038/w29038.pdf
+
+94. Scherer, Jacqueline A., "Identifying Effective Strategies for Robbery
+Investigations: An Examination of
+Organizational Factors, Investigative Processes and Detective
+Characteristics." Thesis, George Mason University, 2019.
+Full text PDF: https://www.nber.org/system/files/working_papers/w29038/w29038.pdf
+
+95. Scherer, Jacqueline A., "Identifying Effective Strategies for Robbery
+Investigations: An Examination of Organizational Factors, Investigative
+Processes and Detective Characteristics." George Mason University, 2019.
+Full text PDF: https://www.nber.org/system/files/working_papers/w29038/w29038.pdf
+
+96. Schuck, Amie M., "Women in policing and rape: Representative
+bureaucracy and organizational change." Feminist Criminology. Jul 2018, 13,
+(3), 237 - 259. DOI: 10.1177/1557085117753668
+Full text PDF: https://www.nber.org/system/files/working_papers/w29038/w29038.pdf
+
+97. Schuck, Amie M.; Rabe-Hemp, Cara E., "Investing in people: Salary and
+turnover in policing." Policing (Bingley). 2018, 41, (1), 113 - 128. DOI:
+10.1108/PIJPSM-09-2016-0137
+Abstract: http://www.emeraldinsight.com/doi/abs/10.1108/PIJPSM-09-2016-0137
+
+98. Scott, Thomas L.; Wellford, Charles; Lum, Cynthia; Vovak, Heather,
+"Variability of crime clearance among police agencies." Police Quarterly.
+Mar 2019, 22, (1), 82 - 111. DOI: 10.1177/1098611118796597
+Abstract: http://www.emeraldinsight.com/doi/abs/10.1108/PIJPSM-09-2016-0137
+
+99. Scott, Thomas; Wellford, Charles, "Improving the clearance of serious
+crime: The case of aggravated assault." Policing (Bingley). in press 2021,.
+DOI: 10.1108/PIJPSM-02-2021-0025
+Abstract: http://www.emeraldinsight.com/doi/abs/10.1108/PIJPSM-09-2016-0137
+
+100. Sinyangwe, Samuel, "Examining the Role of Use of Force Policies in
+Ending Police Violence." 2016. DOI: 10.2139/ssrn.2841872
+Abstract: https://ssrn.com/abstract=2841872
+
+101. Smith, Erica, "Hate Crime Recorded by Law Enforcement, 2010-2019."
+Statistical Brief. NCJ 301554, Washington, DC: Bureau of Justice
+Statistics, Sep 2021.
+Abstract: https://bjs.ojp.gov/library/publications/hate-crime-recorded-law-enforcement-2010-2019?utm_content=hcv0519&utm_medium=email&utm_source=govdelivery
+Full text PDF: https://bjs.ojp.gov/sites/g/files/xyckuh236/files/media/document/hcrle1019.pdf
+This report presents data from the FBI’s Uniform Crime Reporting Hate Crime
+Statistics Program (HCSP) on hate crime incidents and victims from 2010 to
+2019. The HCSP, which began in 1990, collects hate crime data regarding
+criminal offenses motivated, in whole or in part, by the offender’s bias
+against a race or ethnicity, religion, disability, sexual orientation,
+gender, or gender identity. The HCSP includes crimes reported to police
+that, after investigation, reveal sufficient evidence to support being
+recorded as hate crimes. The report examines incidents and victims of hate
+crime recorded by law enforcement, trends over time in total hate crimes,
+and hate crimes motivated by bias against the victim’s race, ethnicity, or
+ancestry.
+
+102. Spencer, Nekeisha O., "Look what the hurricanes just blew in:
+Analyzing the impact of the storm on criminal activities." Journal of Crime
+and Justice. 2017, 40, (4), 417 - 429. DOI: 10.1080/0735648X.2016.1168749
+Abstract: https://bjs.ojp.gov/library/publications/hate-crime-recorded-law-enforcement-2010-2019?utm_content=hcv0519&utm_medium=email&utm_source=govdelivery
+Full text PDF: https://bjs.ojp.gov/sites/g/files/xyckuh236/files/media/document/hcrle1019.pdf
+This report presents data from the FBI’s Uniform Crime Reporting Hate Crime
+Statistics Program (HCSP) on hate crime incidents and victims from 2010 to
+2019. The HCSP, which began in 1990, collects hate crime data regarding
+criminal offenses motivated, in whole or in part, by the offender’s bias
+against a race or ethnicity, religion, disability, sexual orientation,
+gender, or gender identity. The HCSP includes crimes reported to police
+that, after investigation, reveal sufficient evidence to support being
+recorded as hate crimes. The report examines incidents and victims of hate
+crime recorded by law enforcement, trends over time in total hate crimes,
+and hate crimes motivated by bias against the victim’s race, ethnicity, or
+ancestry.
+
+103. Stemple, Lara; Meyer, Illan H., "The sexual victimization of men in
+America: New data challenges old assumptions." American Journal of Public
+Health. Jun 2014, 104, (6), e19 - e26. DOI: 10.2105/AJPH.2014.301946
+Abstract: https://bjs.ojp.gov/library/publications/hate-crime-recorded-law-enforcement-2010-2019?utm_content=hcv0519&utm_medium=email&utm_source=govdelivery
+Full text PDF: https://bjs.ojp.gov/sites/g/files/xyckuh236/files/media/document/hcrle1019.pdf
+This report presents data from the FBI’s Uniform Crime Reporting Hate Crime
+Statistics Program (HCSP) on hate crime incidents and victims from 2010 to
+2019. The HCSP, which began in 1990, collects hate crime data regarding
+criminal offenses motivated, in whole or in part, by the offender’s bias
+against a race or ethnicity, religion, disability, sexual orientation,
+gender, or gender identity. The HCSP includes crimes reported to police
+that, after investigation, reveal sufficient evidence to support being
+recorded as hate crimes. The report examines incidents and victims of hate
+crime recorded by law enforcement, trends over time in total hate crimes,
+and hate crimes motivated by bias against the victim’s race, ethnicity, or
+ancestry.
+
+104. Stovall, Joshua R., "Surveillance of, and the Impact of Community
+Policing on Arrest-Related Deaths (ARDS): Exploring the Surveillance of
+ARDS and the Opportunities to Prevent Them in the United States." Thesis,
+University of Washington, 2016.
+Abstract: http://hdl.handle.net/1773/36985
+Full text PDF: https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/36985/Stovall_washington_0250O_16335.pdf?sequence=1&isAllowed=y
+
+105. Terranova, Claudio; Zen, Margherita, "Women victims of intentional
+homicide in Italy: New insights comparing Italian trends to German and U.S.
+trends, 2008-2014." Journal of Forensic and Legal Medicine. Jan 2018, 53,
+73 - 78. DOI: 10.1016/j.jflm.2017.11.007
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/29202317
+
+106. Thomas, David C., "Empirical Studies of Emergency Response Services
+(9-1-1) and an Examination of Moral Hazard in Health Insurance
+." Dissertation, California State University, San Jose, 2012.
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/29202317
+
+107. Tran, Nguyen K.; Goldstein, Neal D.; Purtle, Jonathan; Massey, Philip
+M.; Lankenau, Stephen E.; Suder, Joanna S.; Tabb, Loni P., "The
+heterogeneous effect of marijuana decriminalization policy on arrest rates
+in Philadelphia, Pennsylvania, 2009-2018." Drug and Alcohol Dependence. in
+press 2020,. DOI: 10.1016/j.drugalcdep.2020.108058
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/29202317
+
+108. Tulumello, Simone, "The long way to a safer Memphis: Local policies
+for crime prevention need structural change." Race, Class, and Social
+Justice in Memphis: A Call to Bridge the Great Divide. Memphis, TX:
+University of Memphis, The Benjamin L. Hooks Institute for Social Change,
+Oct 2016.
+Full text PDF: http://www.memphis.edu/benhooks/programs/pdf/2016hookspolicypapers.pdf
+The 2016 Hooks Institute policy papers use Memphis and Shelby County as a
+starting point to discuss, and propose solutions to, national issues of
+race, class, and public policy. "The Long Way to a Safer Memphis: Local
+Policies for Crime Prevention Need Structural Change", written by Simone
+Tulumello, Ph.D. (Doctoral Research Fellow, University of Lisbon,
+Portugal), looks at the need for sound structural policy changes in order
+to create flourishing communities, as a reliance on the policing of
+minority and poor communities will not do so. "Transportation, Urban, Form,
+and Social Justice in Memphis", written by Charles A. Santo, Ph.D.
+(Associate Professor, Department Chair, City and Regional Planning, UofM),
+calls for us to rethink public transportation, claiming a lack of efficient
+and reliable public transportation limits the ability of the poor to
+improve their economic standing and harms the economic growth of Memphis
+and Shelby County. "Ideology and Division: How We Got Here, How Do We Get
+Back? The Search for Unity", written by Eric Groenendyk, Ph.D. (Associate
+Professor, Department of Political Science, UofM), insists we are not as
+politically divided as we seem; believing if we focused on communal and
+individual needs, rather than ideology alone, we would find more in common
+than we think.
+
+109. Vaughn, Paige E., "The effects of devaluation and solvability on crime
+clearance." Journal of Criminal Justice. in press 2020,. DOI:
+10.1016/j.jcrimjus.2020.101657
+Full text PDF: http://www.memphis.edu/benhooks/programs/pdf/2016hookspolicypapers.pdf
+The 2016 Hooks Institute policy papers use Memphis and Shelby County as a
+starting point to discuss, and propose solutions to, national issues of
+race, class, and public policy. "The Long Way to a Safer Memphis: Local
+Policies for Crime Prevention Need Structural Change", written by Simone
+Tulumello, Ph.D. (Doctoral Research Fellow, University of Lisbon,
+Portugal), looks at the need for sound structural policy changes in order
+to create flourishing communities, as a reliance on the policing of
+minority and poor communities will not do so. "Transportation, Urban, Form,
+and Social Justice in Memphis", written by Charles A. Santo, Ph.D.
+(Associate Professor, Department Chair, City and Regional Planning, UofM),
+calls for us to rethink public transportation, claiming a lack of efficient
+and reliable public transportation limits the ability of the poor to
+improve their economic standing and harms the economic growth of Memphis
+and Shelby County. "Ideology and Division: How We Got Here, How Do We Get
+Back? The Search for Unity", written by Eric Groenendyk, Ph.D. (Associate
+Professor, Department of Political Science, UofM), insists we are not as
+politically divided as we seem; believing if we focused on communal and
+individual needs, rather than ideology alone, we would find more in common
+than we think.
+
+110. Vogler, Jacob, "Access to Health Care and Criminal Behavior: Short-Run
+Evidence from the ACA Medicaid Expansions." Jan 18, 2018. DOI:
+10.2139/ssrn.3042267
+Abstract: https://ssrn.com/abstract=3042267
+
+111. Warner, Jared, "The brokenness of broken windows: An introductory
+statistics project on race, policing, and criminal justice." PRIMUS. in
+press 2018,. DOI: 10.1080/10511970.2018.1456498
+Abstract: https://ssrn.com/abstract=3042267
+
+112. Wasileski, Gabriela; Davis-Frenzel, Erika, "Domestic Violence Cases in
+Rural Pennsylvania Magisterial Courts: Practices, Effectiveness and
+Consequences." Harrisburg, PA: Center for Rural Pennsylvania, Sep 2016.
+Full text PDF: http://www.rural.palegislature.us/documents/reports/Domestic_Violence_Mag_Courts_Wasileski_2016.pdf
+
+113. Wellford, Charles F.; Lum, Cynthia; Scott, Thomas; Vovak, Heather;
+Scherer, J.A., "Clearing homicides: Role of organizational, case, and
+investigative dimensions." Criminology and Public Policy. in press 2019,.
+DOI: 10.1111/1745-9133.12449
+Full text PDF: http://www.rural.palegislature.us/documents/reports/Domestic_Violence_Mag_Courts_Wasileski_2016.pdf
+
+114. Williams, Morgan C., Jr., "Gun Violence in Black and White: Evidence
+from Policy Reform in Missouri." Apr 17, 2018..
+Full text PDF: http://www.morganwilliamsjr.com/wp-content/uploads/2015/06/WilliamsJr_Morgan_WP_April_2018.pdf
+
+115. Worral, John L., "Investigative resources and crime clearances: A
+group-based trajectory approach." Criminal Justice Policy Review. Mar 2019,
+30, (2), 155 - 175. DOI: 10.1177/0887403416650251
+Full text PDF: http://www.morganwilliamsjr.com/wp-content/uploads/2015/06/WilliamsJr_Morgan_WP_April_2018.pdf
+
+116. Zhanga, Yinjunjie; Palma, Marco A.; Xu, Zhicheng P., "Unintended
+effects of the Alabama HB 56 immigration law on crime: A preliminary
+analysis." Economics Letters. Oct 2016, 147, 68 - 71. DOI:
+10.1016/j.econlet.2016.08.026
+Full text PDF: http://www.morganwilliamsjr.com/wp-content/uploads/2015/06/WilliamsJr_Morgan_WP_April_2018.pdf

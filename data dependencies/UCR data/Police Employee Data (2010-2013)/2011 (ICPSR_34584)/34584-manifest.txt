@@ -1,0 +1,49 @@
+File Manifest for ICPSR 34584
+
+United States Department of Justice. Federal Bureau of Investigation.
+Uniform Crime Reporting Program Data: Police Employee (LEOKA) Data, 2011.
+ICPSR34584-v1. Ann Arbor, MI: Inter-university Consortium for Political and
+Social Research [distributor], 2013-05-02.
+http://doi.org/10.3886/ICPSR34584.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    34584-descriptioncitation.pdf       -       -         -       2016-05-16  -
+
+    34584-related_literature.txt        -       -         -       daily       -
+
+    34584-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Uniform Crime Reporting Program Data: Police Employee (LEOKA) Data,
+2011
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    34584-0001-Codebook.pdf             -       -         -       2013-05-02  4ba90f4c2eb5e8c79b775bb1fd7c25e0
+
+    34584-0001-Data.dta                 -       21,897    2264    2013-05-02  9a8e7ed81e9e4e3795d3f2295c416020
+
+    34584-0001-Data.rda                 -       21,897    2264    2013-05-02  d2765800f8bf36af44e7b481673ee775
+
+    34584-0001-Data.sav                 -       21,897    2264    2013-05-02  391a1fac2f24133b488c8f4d93a4570d
+
+    34584-0001-Data.stc                 -       21,897    2264    2013-05-02  063df312de91be9eeddcd515670bea32
+
+    34584-0001-Data.tsv                 -       21,897    2264    2013-05-02  a2d7174aacefee973f36fd3c8b19f6d0
+
+    34584-0001-Data.txt                 3125    21,897    2264    2013-05-02  ae7bad5e1e422743c5f5079a58dcaf97
+
+    34584-0001-Setup.dct                -       -         -       2013-05-02  93d5e1cbd66f3c947eea0c50faeed4a6
+
+    34584-0001-Setup.do                 -       -         -       2013-05-02  89828f4f8a8bec3d068615cc9d226718
+
+    34584-0001-Setup.sas                -       -         -       2013-05-02  1b3e43247290e01f20162fcd99a6c033
+
+    34584-0001-Setup.sps                -       -         -       2013-05-02  5734926a4673e0cdee2081147020a096
+

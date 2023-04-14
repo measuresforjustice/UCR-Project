@@ -1,0 +1,49 @@
+File Manifest for ICPSR 36119
+
+United States Department of Justice. Federal Bureau of Investigation.
+Uniform Crime Reporting Program Data: Police Employee (LEOKA) Data, 2013.
+ICPSR36119-v1. Ann Arbor, MI: Inter-university Consortium for Political and
+Social Research [distributor], 2015-05-07.
+http://doi.org/10.3886/ICPSR36119.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36119-descriptioncitation.pdf       -       -         -       2016-05-16  -
+
+    36119-related_literature.txt        -       -         -       daily       -
+
+    36119-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Uniform Crime Reporting Program Data: Police Employee (LEOKA) Data,
+2013
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36119-0001-Codebook.pdf             -       -         -       2015-05-07  3de0c6c9bbdfd31c12eb9cf2e0e7a64e
+
+    36119-0001-Data.dta                 -       22,202    2264    2015-05-07  29f5b0c2690c6a0b17301206285316bb
+
+    36119-0001-Data.rda                 -       22,202    2264    2015-05-07  734230220ba1f32c7fe43e2e40ab72b7
+
+    36119-0001-Data.sav                 -       22,202    2264    2015-05-07  4fbc83512c8c5d678412041c31dd73d8
+
+    36119-0001-Data.stc                 -       22,202    2264    2015-05-07  4cb44f715fef246ce0635ddc561eac96
+
+    36119-0001-Data.tsv                 -       22,202    2264    2015-05-07  fd6bf3c8e6cb5d563769bb25295a75ce
+
+    36119-0001-Data.txt                 3123    22,202    2264    2015-05-07  5bfd3dad2b0b0d47db3f64c91fbb72a0
+
+    36119-0001-Setup.dct                -       -         -       2015-05-07  0e5002f12a7060c83ba4d7e502ddc65e
+
+    36119-0001-Setup.do                 -       -         -       2015-05-07  7f97f5cffb0f8a9d8dd2437f762f41c9
+
+    36119-0001-Setup.sas                -       -         -       2015-05-07  c1a79dbd4e74d9da9f624ac293f65d75
+
+    36119-0001-Setup.sps                -       -         -       2015-05-07  252c3376941909f94c0dea416e6dddbc
+

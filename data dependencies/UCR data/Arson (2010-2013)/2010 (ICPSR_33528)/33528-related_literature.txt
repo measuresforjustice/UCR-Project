@@ -1,0 +1,16 @@
+Bibliography
+Uniform Crime Reporting Program Data: Arson, United States, 2010
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 33528. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. 
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. Akpom, Uchenna N.; Doss, Adrian D., "Estimating the impact of state
+government spending and the economy on crime rates." Journal of Law and
+Conflict Resolution. Feb 2018, 10, (2), 9 - 18. DOI: 10.5897/JLCR2016.0250

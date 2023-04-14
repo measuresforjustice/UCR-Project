@@ -1,0 +1,47 @@
+File Manifest for ICPSR 33525
+
+United States Department of Justice. Federal Bureau of Investigation.
+Uniform Crime Reporting Program Data: Police Employee (LEOKA) Data, 2010.
+ICPSR33525-v1. Ann Arbor, MI: Inter-university Consortium for Political and
+Social Research [distributor], 2012-06-19.
+http://doi.org/10.3886/ICPSR33525.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    33525-descriptioncitation.pdf       -       -         -       2016-05-16  -
+
+    33525-related_literature.txt        -       -         -       daily       -
+
+    33525-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Uniform Crime Reporting Program Data: Police Employee (LEOKA) Data,
+2010
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    33525-0001-Codebook.pdf             -       -         -       2012-06-19  83f914275168daef75b8bc53ddfa449f
+
+    33525-0001-Data.dta                 -       21,771    2264    2012-06-19  4bd926fcd1a0c42434a90b9d24a259e9
+
+    33525-0001-Data.sav                 -       21,771    2264    2012-06-19  dc73da2dcde34af1cab0bf945e5606bc
+
+    33525-0001-Data.stc                 -       21,771    2264    2012-06-19  ea19b58c112a3b79b2dd17ef549a6a8a
+
+    33525-0001-Data.tsv                 -       21,771    2264    2012-06-19  c127335727612ccebd05ef50f6574119
+
+    33525-0001-Data.txt                 3174    21,771    2264    2012-06-19  488dbe801b768c2cc346f946ab854922
+
+    33525-0001-Setup.dct                -       -         -       2012-06-19  ef9115c21bfdd6cf895b3228290782a9
+
+    33525-0001-Setup.do                 -       -         -       2012-06-19  56add6d09ae786fbcaaaf9f54cfd763b
+
+    33525-0001-Setup.sas                -       -         -       2012-06-19  f0b91125bb92ce77a51bce1150dac9af
+
+    33525-0001-Setup.sps                -       -         -       2012-06-19  c1e0b22492e9ec5f75f0a14dbe37d2e6
+

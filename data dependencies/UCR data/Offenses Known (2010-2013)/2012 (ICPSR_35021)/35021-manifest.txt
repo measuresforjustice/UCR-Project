@@ -1,0 +1,49 @@
+File Manifest for ICPSR 35021
+
+United States Department of Justice. Federal Bureau of Investigation.
+Uniform Crime Reporting Program Data: Offenses Known and Clearances by
+Arrest, 2012. ICPSR35021-v1. Ann Arbor, MI: Inter-university Consortium for
+Political and Social Research [distributor], 2014-05-22.
+http://doi.org/10.3886/ICPSR35021.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    35021-descriptioncitation.pdf       -       -         -       2015-03-16  -
+
+    35021-related_literature.txt        -       -         -       daily       -
+
+    35021-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Uniform Crime Reporting Program Data: Offenses Known and Clearances
+by Arrest, 2012
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    35021-0001-Codebook.pdf             -       -         -       2014-05-22  1035b5f735a3718735ad5adfe37c3cef
+
+    35021-0001-Data.dta                 -       22,049    1448    2014-05-22  43bb92df8c10866ca86ced6984de3f4f
+
+    35021-0001-Data.rda                 -       22,049    1448    2014-05-22  72660086fc3f7df5e4bb098f7b752372
+
+    35021-0001-Data.sav                 -       22,049    1448    2014-05-22  14d47a06b20f952a5989baee27a565c9
+
+    35021-0001-Data.stc                 -       22,049    1448    2014-05-22  c57b48022aafd7edd0701a9cb1eb8265
+
+    35021-0001-Data.tsv                 -       22,049    1448    2014-05-22  590da7f53bb17e1057380e786ca812c2
+
+    35021-0001-Data.txt                 3533    22,049    1448    2014-05-22  c747a7e061a5e706ed7dad6270fb5679
+
+    35021-0001-Setup.dct                -       -         -       2014-05-22  1781500bf9a8739d9e7dec4e3a275a81
+
+    35021-0001-Setup.do                 -       -         -       2014-05-22  0b9c4c4c8ae59ff48152e75d81e41c7f
+
+    35021-0001-Setup.sas                -       -         -       2014-05-22  e11a61ff334b7522a1539071c4980d98
+
+    35021-0001-Setup.sps                -       -         -       2014-05-22  d075a1d2d4a23403259f8321e26f2f8c
+

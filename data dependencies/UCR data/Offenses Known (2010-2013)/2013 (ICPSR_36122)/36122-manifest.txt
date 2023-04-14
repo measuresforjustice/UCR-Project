@@ -1,0 +1,49 @@
+File Manifest for ICPSR 36122
+
+United States Department of Justice. Federal Bureau of Investigation.
+Uniform Crime Reporting Program Data: Offenses Known and Clearances by
+Arrest, 2013. ICPSR36122-v1. Ann Arbor, MI: Inter-university Consortium for
+Political and Social Research [distributor], 2015-04-24.
+http://doi.org/10.3886/ICPSR36122.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36122-descriptioncitation.pdf       -       -         -       2016-04-29  -
+
+    36122-related_literature.txt        -       -         -       daily       -
+
+    36122-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Uniform Crime Reporting Program Data: Offenses Known and Clearances
+by Arrest, 2013
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36122-0001-Codebook.pdf             -       -         -       2015-04-24  254cb6bf4f32b8146e473f36edac044f
+
+    36122-0001-Data.dta                 -       22,202    1448    2015-04-24  4da622dd8ed80364738f8f5cb83d0445
+
+    36122-0001-Data.rda                 -       22,202    1448    2015-04-24  d8d5a289e401e598c4f232de2f000999
+
+    36122-0001-Data.sav                 -       22,202    1448    2015-04-24  5fb1fe94aecd60df23da1bc7e43a778f
+
+    36122-0001-Data.stc                 -       22,202    1448    2015-04-24  d21ab45d1429b1f18a8eec81ee95c618
+
+    36122-0001-Data.tsv                 -       22,202    1448    2015-04-24  9a74a4599e0225da6d0ad53c1d045dac
+
+    36122-0001-Data.txt                 3704    22,202    1448    2015-04-24  a7b5c146b2a26388341829e0da73667c
+
+    36122-0001-Setup.dct                -       -         -       2015-04-24  822f74ef8f8cfb028547683a10ed9e2a
+
+    36122-0001-Setup.do                 -       -         -       2015-04-24  984e077b75e8bdf78d24b193fff9b0cc
+
+    36122-0001-Setup.sas                -       -         -       2015-04-24  2e8d94ebe9a33f1043939545bc30c6c9
+
+    36122-0001-Setup.sps                -       -         -       2015-04-24  97133ade66116313aea592eb0a0f8aa2
+

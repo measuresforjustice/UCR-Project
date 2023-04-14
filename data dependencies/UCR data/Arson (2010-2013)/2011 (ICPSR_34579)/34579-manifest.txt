@@ -1,0 +1,45 @@
+File Manifest for ICPSR 34579
+
+United States. Federal Bureau of Investigation. Uniform Crime Reporting
+Program Data: Arson, United States, 2011. ICPSR34579-v1. Ann Arbor, MI:
+Inter-university Consortium for Political and Social Research
+[distributor], 2014-01-24. http://doi.org/10.3886/ICPSR34579.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    34579-descriptioncitation.pdf       -       -         -       2018-05-23  -
+
+    34579-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Uniform Crime Reporting Program Data: Arson, United States, 2011
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    34579-0001-Codebook.pdf             -       -         -       2014-01-24  020b0f104d2492cc6046a5daf15272e4
+
+    34579-0001-Data.dta                 -       21,897    1253    2014-01-24  8ba729f7ad849ad4b3097de2a37cf025
+
+    34579-0001-Data.rda                 -       21,897    1253    2014-01-24  259ca55d2dbb1484e31e23eb12b995f1
+
+    34579-0001-Data.sav                 -       21,897    1253    2014-01-24  0c15af2c73955864efe9145c43db3cf9
+
+    34579-0001-Data.stc                 -       21,897    1253    2014-01-24  14e4bdacf024f2dfd7fcda40974a8fd4
+
+    34579-0001-Data.tsv                 -       21,897    1253    2014-01-24  d4f6cbc51941d5fb7b7c619abccaa6a4
+
+    34579-0001-Data.txt                 2559    21,897    1253    2014-01-24  cc623ba109712a40b703a2323d77eefb
+
+    34579-0001-Setup.dct                -       -         -       2014-01-24  6f5ae04ff5947ff12992e718adb96b94
+
+    34579-0001-Setup.do                 -       -         -       2014-01-24  4865152810d31b0b6398d1bc6a86e977
+
+    34579-0001-Setup.sas                -       -         -       2014-01-24  22bc5df0410b64dffb950fcedab65e9d
+
+    34579-0001-Setup.sps                -       -         -       2014-01-24  f881ec9e022c84d8bef3c733cbe25072
+

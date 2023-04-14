@@ -1,0 +1,47 @@
+File Manifest for ICPSR 33526
+
+United States Department of Justice. Federal Bureau of Investigation.
+Uniform Crime Reporting Program Data: Offenses Known and Clearances by
+Arrest, 2010. ICPSR33526-v1. Ann Arbor, MI: Inter-university Consortium for
+Political and Social Research [distributor], 2012-06-19.
+http://doi.org/10.3886/ICPSR33526.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    33526-descriptioncitation.pdf       -       -         -       2016-05-06  -
+
+    33526-related_literature.txt        -       -         -       daily       -
+
+    33526-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Uniform Crime Reporting Program Data: Offenses Known and Clearances
+by Arrest, 2010
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    33526-0001-Codebook.pdf             -       -         -       2012-06-19  09d9199d1c5ce6560f28b3a498825365
+
+    33526-0001-Data.dta                 -       21,771    1448    2012-06-19  be41e4ee65c17f3767564cc884d276d5
+
+    33526-0001-Data.sav                 -       21,771    1448    2012-06-19  453b20d4fdab232ae2a52660ca514049
+
+    33526-0001-Data.stc                 -       21,771    1448    2012-06-19  dd3f6bb7c69071ee230c2ec7aaaf8e1c
+
+    33526-0001-Data.tsv                 -       21,771    1448    2012-06-19  b30292b4b1668d3551e85ace6213c6f3
+
+    33526-0001-Data.txt                 3550    21,771    1448    2012-06-19  cac4f6bff2364b12ac87212000c472f5
+
+    33526-0001-Setup.dct                -       -         -       2012-06-19  bfb515598669cb5adc7e69ca5b2e51dd
+
+    33526-0001-Setup.do                 -       -         -       2012-06-19  13275b1cd50c06659f4c5cd15d0b64ee
+
+    33526-0001-Setup.sas                -       -         -       2012-06-19  b0da53ad0e1224d68c9cac5b6ba06e62
+
+    33526-0001-Setup.sps                -       -         -       2012-06-19  eb37267bae5081ece151c0e389019ea2
+

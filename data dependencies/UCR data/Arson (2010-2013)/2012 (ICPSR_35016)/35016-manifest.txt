@@ -1,0 +1,47 @@
+File Manifest for ICPSR 35016
+
+United States. Federal Bureau of Investigation. Uniform Crime Reporting
+Program Data: Arson, United States, 2012. ICPSR35016-v1. Ann Arbor, MI:
+Inter-university Consortium for Political and Social Research
+[distributor], 2014-05-29. http://doi.org/10.3886/ICPSR35016.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    35016-descriptioncitation.pdf       -       -         -       2018-05-23  -
+
+    35016-related_literature.txt        -       -         -       daily       -
+
+    35016-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Uniform Crime Reporting Program Data: Arson, United States, 2012
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    35016-0001-Codebook.pdf             -       -         -       2014-05-29  f00b1af0acb305213799337def07d424
+
+    35016-0001-Data.dta                 -       22,049    1253    2014-05-29  f3c6b0554b9884d20ae1b1971d021faf
+
+    35016-0001-Data.rda                 -       22,049    1253    2014-05-29  e909a025cfe5c50b2367eff300374c8b
+
+    35016-0001-Data.sav                 -       22,049    1253    2014-05-29  9567bf4c0ee84ec3ae07b0d54486854a
+
+    35016-0001-Data.stc                 -       22,049    1253    2014-05-29  5d304b81c6b2689284b15b4e2b0c7d17
+
+    35016-0001-Data.tsv                 -       22,049    1253    2014-05-29  fc65fbaa8cc07dd443313c1fd3863fcb
+
+    35016-0001-Data.txt                 2554    22,049    1253    2014-05-29  4757fae9b0c74a96705e71cbb6cb9421
+
+    35016-0001-Setup.dct                -       -         -       2014-05-29  4732f29cee3b76ff9347f8dcdb7b8de8
+
+    35016-0001-Setup.do                 -       -         -       2014-05-29  af3dc20d41066dfcdc9daa9b23856841
+
+    35016-0001-Setup.sas                -       -         -       2014-05-29  1fd05e1dc933721e034c649c3f594a2d
+
+    35016-0001-Setup.sps                -       -         -       2014-05-29  fb462a06056a7a288cb2bf7d4fe0bfe7
+

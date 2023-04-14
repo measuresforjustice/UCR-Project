@@ -1,0 +1,385 @@
+Bibliography
+Uniform Crime Reporting Program Data: Police Employee (LEOKA) Data, 2010
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 33525. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. 
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. Ades, James; Mishra, Jyoti, "Education and Crime Across America:
+Inequity's Cost." Sep 2020..
+Abstract: https://www.researchgate.net/publication/344260626_Education_and_Crime_Across_America_Inequity's_Cost
+
+2. Akpom, Uchenna N.; Doss, Adrian D., "Estimating the impact of state
+government spending and the economy on crime rates." Journal of Law and
+Conflict Resolution. Feb 2018, 10, (2), 9 - 18. DOI: 10.5897/JLCR2016.0250
+Abstract: https://www.researchgate.net/publication/344260626_Education_and_Crime_Across_America_Inequity's_Cost
+
+3. Al-Naiem, Kariar, "Pentagon 1033 and Minority Threat: Examining 1033
+Equipment Acquisitions by Law Enforcement Agencies from 2006-2015." Thesis,
+San Diego State University, 2021.
+Abstract: https://www.researchgate.net/publication/344260626_Education_and_Crime_Across_America_Inequity's_Cost
+
+4. Ali, Mir U.; Nicholson-Crotty, Sean, "Examining the accountability-
+performance link: Case of citizen oversight of police." Public Performance
+and Management Review. 2021, 44, (3), 523 - 559. DOI:
+10.1080/15309576.2020.1806086
+Abstract: https://www.researchgate.net/publication/344260626_Education_and_Crime_Across_America_Inequity's_Cost
+
+5. Allen, Terry, "Police officers killed in the line of duty: A
+correspondence analysis of circumstances and time of day." Chance. 2021,
+34, (2), 24 - 30. DOI: 10.1080/09332480.2021.1915030
+Abstract: https://www.researchgate.net/publication/344260626_Education_and_Crime_Across_America_Inequity's_Cost
+
+6. Andrews, Rodney J.; Deza, Monica, "Local natural resources and crime:
+Evidence from oil price fluctuations in Texas." Journal of Economic
+Behavior and Organization. Jul 2018, 151, 123 - 142. DOI:
+10.1016/j.jebo.2018.02.011
+Abstract: https://www.researchgate.net/publication/344260626_Education_and_Crime_Across_America_Inequity's_Cost
+
+7. Banks, Duren; Hendrix, Joshua; Hickman, Matthew; Kyckelhahn, Tracey,
+"National Sources of Law Enforcement Employment Data." Program Report. NCJ
+249681, Washington, DC: U.S. Department of Justice, Office of Justice
+Programs, Bureau of Justice Statistics, Oct 4, 2016.
+Abstract: http://www.bjs.gov/index.cfm?ty=pbdetail&iid=5600&ed2f26df2d9c416fbddddd2330a778c6=zvtmpntmas-zfmsfvnm
+Full text: http://www.bjs.gov/content/pub/ascii/nsleed.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/nsleed.pdf
+This report describes and compares three law enforcement employment data
+sources: 1) the FBI 's Uniform Crime Reporting (UCR) Program, 2) the Census
+Bureau s Annual Survey of Public Employment and Payroll (ASPEP), and 3) the
+Bureau of Justice Statistics  Census of State and Local Law Enforcement
+Agencies (CSLLEA). The three sources provide information about the nature
+and scope of law enforcement employment in the United States. The sources
+use different definitions and vary in their periodicity and levels of
+coverage. This report provides recommended uses for the data sources.
+
+8. Bir, Cynthia; Padillo, Ricardo; Rajaram, Pranav; Inaba, Kenji,
+"Incidence of law enforcement officer fatalities related to motor vehicle
+accidents." International Journal of Injury Control and Safety Promotion.
+2021, 28, (1), 127 - 131. DOI: 10.1080/17457300.2020.1858114
+Abstract: http://www.bjs.gov/index.cfm?ty=pbdetail&iid=5600&ed2f26df2d9c416fbddddd2330a778c6=zvtmpntmas-zfmsfvnm
+Full text: http://www.bjs.gov/content/pub/ascii/nsleed.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/nsleed.pdf
+This report describes and compares three law enforcement employment data
+sources: 1) the FBI 's Uniform Crime Reporting (UCR) Program, 2) the Census
+Bureau s Annual Survey of Public Employment and Payroll (ASPEP), and 3) the
+Bureau of Justice Statistics  Census of State and Local Law Enforcement
+Agencies (CSLLEA). The three sources provide information about the nature
+and scope of law enforcement employment in the United States. The sources
+use different definitions and vary in their periodicity and levels of
+coverage. This report provides recommended uses for the data sources.
+
+9. Boine, Claire; Siegel, Michael; Ross, Craig; Fleegler, Eric W.; Alcorn,
+Ted, "What is gun culture? Cultural variations and trends across the United
+States." Humanities and Social Sciences Communications. Jul 2020, 7, (1),.
+DOI: 10.1057/s41599-020-0520-6
+Abstract: http://www.bjs.gov/index.cfm?ty=pbdetail&iid=5600&ed2f26df2d9c416fbddddd2330a778c6=zvtmpntmas-zfmsfvnm
+Full text: http://www.bjs.gov/content/pub/ascii/nsleed.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/nsleed.pdf
+This report describes and compares three law enforcement employment data
+sources: 1) the FBI 's Uniform Crime Reporting (UCR) Program, 2) the Census
+Bureau s Annual Survey of Public Employment and Payroll (ASPEP), and 3) the
+Bureau of Justice Statistics  Census of State and Local Law Enforcement
+Agencies (CSLLEA). The three sources provide information about the nature
+and scope of law enforcement employment in the United States. The sources
+use different definitions and vary in their periodicity and levels of
+coverage. This report provides recommended uses for the data sources.
+
+10. Breslin, Rachel A., "Police Response to Intimate Partner Violence and
+Victim Willingness to Report: Representative Bureaucracy Through an
+Intersectional Lens." Dissertation, George Washington University, 2019.
+Abstract: http://www.bjs.gov/index.cfm?ty=pbdetail&iid=5600&ed2f26df2d9c416fbddddd2330a778c6=zvtmpntmas-zfmsfvnm
+Full text: http://www.bjs.gov/content/pub/ascii/nsleed.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/nsleed.pdf
+This report describes and compares three law enforcement employment data
+sources: 1) the FBI 's Uniform Crime Reporting (UCR) Program, 2) the Census
+Bureau s Annual Survey of Public Employment and Payroll (ASPEP), and 3) the
+Bureau of Justice Statistics  Census of State and Local Law Enforcement
+Agencies (CSLLEA). The three sources provide information about the nature
+and scope of law enforcement employment in the United States. The sources
+use different definitions and vary in their periodicity and levels of
+coverage. This report provides recommended uses for the data sources.
+
+11. Bureau of Justice Statistics, "Law Enforcement Officers Killed and
+Assaulted, 2019 - Tables." NCJ 254824, Washington, DC: Bureau of Justice
+Statistics, Jun 2020.
+Abstract: https://www.ncjrs.gov/app/publications/abstract.aspx?id=279060
+Full text PDF: https://www.bjs.gov/content/pub/pdf/leoka19_tables_rev.pdf?utm_content=default&utm_medium=email&utm_source=govdelivery
+These Bureau of Justice Statistics (BJS) statistical tables, based on data
+from the Federal Bureau of Investigation’s Law Enforcement Officers Killed
+and Assaulted, 2019, present information concerning line-of-duty deaths or
+assaults of law enforcement officers in the United States. This information
+includes: race, ethnicity, and sex of victim officer; circumstance
+encountered by victim officer upon arrival at scene of incident; and status
+of known offender at time of incident.
+
+12. Carriere, Kevin R., "The Militarization of Police's Eyes, Ears, and
+Hands: The 1033 Department of Defense Program and Police Safety Outcomes."
+Thesis, Georgetown University, 2016.
+Abstract: http://hdl.handle.net/10822/1040783
+
+13. Carriere, Kevin R.; Encinosa, William, "The risks of operational
+militarization: Increased conflict against militarized police." Peace
+Economics, Peace Science and Public Policy. Aug 2017, 23, (3),. DOI:
+10.1515/peps-2017-0016
+Abstract: http://hdl.handle.net/10822/1040783
+
+14. Chu, Yu-Wei L.; Townsend, Wilbur, "Joint culpability: The effects of
+medical marijuana laws on crime." Journal of Economic Behavior and
+Organization. in press 2018,. DOI: 10.1016/j.jebo.2018.07.003
+Abstract: http://hdl.handle.net/10822/1040783
+
+15. Clegg, John; Usmani, Adaner, "The Racial Politics of Mass
+Incarceration." New York, NY: New York University, Feb 2017. DOI:
+10.2139/ssrn.3025670
+Abstract: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3025670
+Full text PDF: https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3025670_code2567642.pdf?abstractid=3025670&mirid=1&type=2
+
+16. Cordner, Gary, "LEOKA fatalities by region and jurisdiction size and
+type." Police Chief. Dec 2017, 84, (12), 14.
+Abstract: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3025670
+Full text PDF: https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3025670_code2567642.pdf?abstractid=3025670&mirid=1&type=2
+
+17. Cox, Robynn; Cunningham, Jamein P.; Ortega, Alberto; Whaley, Kenneth,
+"Black Lives: The High Cost of Segregation." Feb 7, 2022.
+Full text PDF: http://www.jameinpcunningham.com/uploads/1/1/2/0/112070441/black_lives_ccow.pdf
+
+18. Daniels, Jeffrey A.; Sheets, James J.; Wright, Philip D.; McAllister,
+Brian R., "Ambushes and Unprovoked Attacks: Assaults on Our Nation's Law
+Enforcement Officers." Washington, DC: U.S. Department of Justice, 2018.
+Full text PDF: https://www.americanvoiceforfreedom.org/wp-content/uploads/2019/08/Ambushes-Unprovoked-Attacks-law-enforcement.pdf
+
+19. Dave, Dhaval; Deza, Monica; Horn, Brady P., "Prescription Drug
+Monitoring Programs, Opioid Abuse, and Crime." NBER Working Paper No.
+24975. Cambridge, MA: National Bureau of Economic Research, Aug 2018. DOI:
+10.3386/w24975
+Abstract: http://www.nber.org/papers/w24975
+
+20. Doleac, Jennifer L., "The effects of DNA databases on crime." American
+Economic Journal: Applied Economics. Jan 2017, 9, (1), 165 - 201. DOI:
+10.1257/app.20150043
+Abstract: http://www.nber.org/papers/w24975
+
+21. Dunphy, Christopher C., "Three Essays on the Economics of Firearms."
+Dissertation, Ohio State University, 2019.
+Abstract: http://rave.ohiolink.edu/etdc/view?acc_num=osu1560245504730798
+
+22. Fachner, George; Thorkildsen, Zoe, "Ambushes of Police: Environment,
+Incident Dynamics, and the Aftermath of Surprise Attacks Against Law
+Enforcement." Washington, DC: United States Department of Justice, Office
+of Community Oriented Policing Services, 2015.
+Full text PDF: https://sccoa.net/wp-content/uploads/2012/04/intel-bulletin-ambushes-of-police.pdf
+
+23. Federal Bureau of Investigation, "About Law Enforcement Officers Killed
+and Assaulted, 2010." Updated 2011, Accessed 03/2013.
+Full text: www.fbi.gov/about-us/cjis/ucr/leoka/leoka-2010
+
+24. Federal Bureau of Investigation, "Crime in the United States 2010."
+Updated 2011,.
+Full text: http://www.fbi.gov/about-us/cjis/ucr/crime-in-the-u.s/2010/crime-in-the-u.s.-2010
+
+25. Fogliato, Riccardo; Xiang, Alice; Lipton, Zachary; Nagin, Daniel;
+Chouldechova, Alexandra, "On the validity of arrest as a proxy for offense:
+Race and the likelihood of arrest for violent crimes." Presented at the
+AIES '21, AAAI/ACM Conference on Artificial Intelligence, Ethics, and
+Society, May 19-21, 2021.
+Full text PDF: https://arxiv.org/pdf/2105.04953.pdf
+
+26. Gobaud, Ariana N.; Mehranbod, Christina A.; Reeping, Paul M.; Morrison,
+Christopher N., "Firearm assaults against US law enforcement officers in
+the line-of-duty: Associations with firearm ownership and state firearm
+laws." Injury Prevention. Mar 28, 2022, 28, A7 - A8. DOI:
+10.1136/injuryprev-2022-SAVIR.19
+Full text PDF: https://arxiv.org/pdf/2105.04953.pdf
+
+27. Han, Minyu; Kwak, Jihun; Sul, Donggyu, "Two-way fixed effects versus
+panel factor-augmented estimators: Asymptotic comparison among pretesting
+procedures." Econometric Reviews. in press 2021,. DOI:
+10.1080/07474938.2021.1957282
+Full text PDF: https://arxiv.org/pdf/2105.04953.pdf
+
+28. Harper, Sam, "Would stronger seat belt laws reduce motor vehicle crash
+deaths?: A semi-Bayesian analysis." Epidemiology. May 2019, 30, (3), 380 -
+387. DOI: 10.1097/EDE.0000000000000990
+Full text PDF: https://arxiv.org/pdf/2105.04953.pdf
+
+29. Kelly, Brian D., "Fighting Crime Or Raising Revenue? Testing Opposing
+Views of Forfeiture." Arlington, VA: Institute for Justice, Jun 2019.
+Full text PDF: https://ij.org/wp-content/uploads/2019/06/Fighting-Crime-or-Raising-Revenue.pdf
+
+30. Kent, Stephanie L.; Carmichael, Jason T., "Racial residential
+segregation and social control: A panel study of the variation in police
+strength across U.S. cities, 1980-2010." American Journal of Criminal
+Justice. Jun 2014, 39, (2), 228 - 249. DOI: 10.1007/s12103-013-9212-8
+Full text PDF: https://ij.org/wp-content/uploads/2019/06/Fighting-Crime-or-Raising-Revenue.pdf
+
+31. Kercher, Cassandra; Swedler, David I.; Pollack, Keshia M.; Webster,
+Daniel W., "Homicides of law enforcement officers responding to domestic
+disturbance calls." Injury Prevention. Oct 2013, 19, (5), 331 - 335. DOI:
+10.1136/injuryprev-2012-040723
+Full text PDF: https://ij.org/wp-content/uploads/2019/06/Fighting-Crime-or-Raising-Revenue.pdf
+
+32. King, William R.; Cihan, Abdullah; Heinonen, Justin A., "The
+reliability of police employee counts: Comparing FBI and ICMA data,
+1954–2008." Journal of Criminal Justice. Oct 2011, 39, (5), 445 - 451. DOI:
+10.1016/j.jcrimjus.2011.08.002
+Full text PDF: https://ij.org/wp-content/uploads/2019/06/Fighting-Crime-or-Raising-Revenue.pdf
+
+33. Koppa, Vijetha, "Can Domestic Violence Victim Screening and Active
+Safety Counseling Save Lives?." Nacogdoches, TX: Stephen F. Austin State
+University, Oct 2017. DOI: 10.2139/ssrn.2982227
+Abstract: https://ssrn.com/abstract=2982227
+
+34. Light, Michael T.; Thomas, Julia T., "Segregation and violence
+reconsidered: Do White benefit from residential segregation?." American
+Sociological Review. in press 2019,. DOI: 10.1177/0003122419858731
+Abstract: https://ssrn.com/abstract=2982227
+
+35. Liu, Weiwei; Taylor, Bruce, "The effect of body armor on saving
+officers' lives: An analysis using LEOKA data." Journal of Occupational and
+Environmental Hygiene. 2017, 14, (2), 73 - 80. DOI:
+10.1080/15459624.2016.1214272 NIJ-2012-3106
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/27715652
+
+36. Mancik, Ashley M.; Parker, Karen F., "Homicide clearances during pre-
+and post-U.S. crime drop eras: The role of structural predictors and
+demographic shifts, 19762015." Journal of Crime and Justice. in press
+2018,. DOI: 10.1080/0735648X.2018.1526101
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/27715652
+
+37. Matusiak, Randa E.; Matusiak, Matthew C., "Structure and function:
+Impact on employment of women in law enforcement." Women and Criminal
+Justice. 2018, 28, (4), 313 - 335. DOI: 10.1080/08974454.2018.1454876
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/27715652
+
+38. McCarthy, Shane, "The Relationship Between Universal Background Check
+Laws for Firearm Sales and Rates of Violent Crime at the State Level."
+Thesis, Georgetown University, 2017.
+Abstract: http://hdl.handle.net/10822/1043958
+
+39. Mello, Steven, "More COPS, Less Crime." Princeton, NJ: Princeton
+University Industrial Relations Section, Jan 3, 2017.
+Full text PDF: http://www.princeton.edu/~smello/papers/Cops.pdf
+
+40. Mercado, Gabriella, "Law Enforcement Officers as Victims of Felonious
+Killings and Assaults: An Analysis of the Predictors of Lethality and the
+Likelihood of Officer Assault or Death." Dissertation, Nova Southeastern
+University, 2020.
+Full text PDF: https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=1285&context=fse_etd/
+
+41. Otsu, Yuki, "Essays on Crime and Public Policy." Dissertation,
+Washington University, 2021.
+Full text PDF: https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=1285&context=fse_etd/
+
+42. Parker, Karen F.; Stansfield, Richard, "The changing urban landscape:
+Interconnections between racial/ethnic segregation and exposure in the
+study of race-specific violence over time." American Journal of Public
+Health. Sep 2015, 105, (9), 1796 - 1805. DOI: 10.2105/AJPH.2015.302639
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/26180967
+
+43. Pattavina, April; Morabito, Melissa; Williams, Linda M., "Examining
+connections between the police and prosecution in sexual assault case
+processing: Does the use of exceptional clearance facilitate a downstream
+orientation?." Victims and Offenders. 2016, 11, (2), 315 - 334. DOI:
+10.1080/15564886.2015.1046622
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/26180967
+
+44. Petersen, Rebecca D.; Ouellet, Aimee, "Law enforcement officers killed
+in the line of duty: Contextual and situational factors relating to body
+armor." American Journal of Criminal Justice. in press 2021,. DOI:
+10.1007/s12103-021-09622-z
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/26180967
+
+45. Piatkowska, Sylwia J.; Messner, Steven F.; Hovermann, Andreas, "Black
+out-group marriages and hate crime rates: A cross-sectional analysis of
+U.S. metropolitan areas." Journal of Research in Crime and Delinquency. Feb
+2020, 57, (1), 105 - 135. DOI: 10.1177/0022427819864142
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/26180967
+
+46. Piatkowska, Sylwia J.; Messner, Steven F.; Yang, Tse-Chuan,
+"Understanding the relationship between relative group size and hate crime
+rates: Linking methods with concepts." Justice Quarterly. 2019, 36, (6),
+1072 - 1095. DOI: 10.1080/07418825.2018.1482942
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/26180967
+
+47. Prestemon, Jeffrey P.; Koch, Frank H.; Donovan, Geoffrey H.; Lihou,
+Mary T., "Cannabis legalization by states reduces illegal growing on US
+national forests." Ecological Economics. Oct 2019, 164, 1 - 13. DOI:
+10.1016/j.ecolecon.2019.106366
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/26180967
+
+48. Servino, Carol, "Driving Forces: Factors Affecting Police Officer
+Injuries in Motor Vehicle Incidents in the United
+States." dissertation, University of Nevada, Las Vegas, 2013.
+Abstract: http://digitalscholarship.unlv.edu/thesesdissertations/1886
+Full text PDF: https://digitalscholarship.unlv.edu/cgi/viewcontent.cgi?article=2887&context=thesesdissertations
+
+49. Shjarback, John A.; Maguire, Edward R., "Extending research on the 'war
+on cops': The effects of Ferguson on nonfatal assaults against U.S. police
+officers." Crime and Delinquency. in press 2019,. DOI:
+10.1177/0011128719890266
+Abstract: http://digitalscholarship.unlv.edu/thesesdissertations/1886
+Full text PDF: https://digitalscholarship.unlv.edu/cgi/viewcontent.cgi?article=2887&context=thesesdissertations
+
+50. Shjarback, John A.; Nix, Justin, "Considering violence against police
+by citizen race/ethnicity to contextualize representation in officer-
+involved shootings." Journal of Criminal Justice. in press 2020,. DOI:
+10.1016/j.jcrimjus.2019.101653
+Abstract: http://digitalscholarship.unlv.edu/thesesdissertations/1886
+Full text PDF: https://digitalscholarship.unlv.edu/cgi/viewcontent.cgi?article=2887&context=thesesdissertations
+
+51. Struyf, Pia; De Moor, Sabine; Vandeviver, Christophe; Renard, Bertrand;
+Vander Beken, Tom, "The effectiveness of DNA databases in relation to their
+purpose and content: A systematic review." Forensic Science International.
+in press 2019,. DOI: 10.1016/j.forsciint.2019.05.052
+Abstract: http://digitalscholarship.unlv.edu/thesesdissertations/1886
+Full text PDF: https://digitalscholarship.unlv.edu/cgi/viewcontent.cgi?article=2887&context=thesesdissertations
+
+52. Swedler, David I.; Simmons, Molly M.; Dominici, Francesca; Hemenway,
+David, "Firearm prevalence and homicides of law enforcement officers in the
+United States." American Journal of Public Health. Oct 2015, 10, 2042 -
+2048. DOI: 10.2105/AJPH.2015.302749
+Abstract: http://digitalscholarship.unlv.edu/thesesdissertations/1886
+Full text PDF: https://digitalscholarship.unlv.edu/cgi/viewcontent.cgi?article=2887&context=thesesdissertations
+
+53. Thompson, M.S.; Hartman, T.M.; Sztajnkrycer, M.D., "A descriptive
+analysis of occupational fatalities due to felonious assault among U.S. law
+enforcement officers during tactical incidents, 1996-2014." Journal of
+Special Operations Medicine. Fal 2017, 17, (3), 69 - 73.
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/28910472
+
+54. Tucker-Gail, Kasey; Eckerley, Andrew; Selman, Donna L.; Lilley, David;
+Stewart, Megan C., "Felonious line-of-duty officer deaths (1995-2015): The
+impact of tenure and age revisited." International Journal of Police
+Science and Management. in press 2021,.
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/28910472
+
+55. Woods, Jordan, "Police escalation and the motor vehicle." New Criminal
+Law Review. 2021, 24, (2), 115 - 155. DOI: 10.1525/nclr.2021.24.2.115
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/28910472
+
+56. Woods, Jordan, "Policing, danger narratives, and routine traffic
+stops." Michigan Law Review. 2019, 117, (4), 635 - 712.
+Abstract: https://repository.law.umich.edu/mlr/vol117/iss4/2
+
+57. Young, Timothy, "Essays in Labor and Experimental Economics with a
+Focus on Crime and Discrimination." University of California, 2019.
+Abstract: https://repository.law.umich.edu/mlr/vol117/iss4/2
+
+58. Zimmerman, Gregory M.; Fridel, Emma E.; Sheppard, Keller G.; Lawshe,
+Nathaniel L., "Contextualizing fatal police-resident encounters with a
+focus on Hispanic or Latin American places: Does macro-level racial and
+ethnic composition distinguish resident fatalities by the police and police
+fatalities by residents?." Journal of Criminal Justice. Jan-Feb 2021, 72,.
+DOI: 10.1016/j.jcrimjus.2020.101749
+Abstract: https://repository.law.umich.edu/mlr/vol117/iss4/2
+
+59. Zimring, Franklin E.; Arsiniega, Brittany, "Trends in killings of and
+by police: A preliminary analysis." Ohio State Journal of Criminal Law. Fal
+2015, 13, (1), 247 - 264.
+Abstract: http://hdl.handle.net/1811/75408

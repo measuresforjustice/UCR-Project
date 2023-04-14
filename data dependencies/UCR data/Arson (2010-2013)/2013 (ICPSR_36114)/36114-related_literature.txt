@@ -1,0 +1,28 @@
+Bibliography
+Uniform Crime Reporting Program Data: Arson, United States, 2013
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 36114. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. 
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. DeLang, Mason; Taheri, Sema A.; Hutchison, Robert; Hawke, Nathan,
+"Tackling UCR's missing data problem: A multiple imputation approach."
+Journal of Criminal Justice. Mar-Apr 2022, 79,. DOI:
+10.1016/j.jcrimjus.2022.101882
+
+2. Fischer, Kyle R.; Schwimmer, Henry; Purtle, Jonathan; Roman, Daniel;
+Cosgrove, Shannon; Current, J. J.; Greene, Michael B., "A content analysis
+of hospitals: Community health needs assessments in the most violent U.S.
+cities." Journal of Community Health. Apr 2018, 43, (2), 259 - 262. DOI:
+10.1007/s10900-017-0413-9
+
+3. Richardson, Keighan, "The Effects of Community Policing Practices and
+Related Social Demographic Variables on City Crime Rates." Thesis, Bryant
+University, 2018.
+Abstract: http://digitalcommons.bryant.edu/honors_history/34

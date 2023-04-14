@@ -1,0 +1,45 @@
+File Manifest for ICPSR 33528
+
+United States. Federal Bureau of Investigation. Uniform Crime Reporting
+Program Data: Arson, United States, 2010. ICPSR33528-v1. Ann Arbor, MI:
+Inter-university Consortium for Political and Social Research
+[distributor], 2014-02-06. http://doi.org/10.3886/ICPSR33528.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    33528-descriptioncitation.pdf       -       -         -       2021-04-09  -
+
+    33528-related_literature.txt        -       -         -       daily       -
+
+    33528-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Uniform Crime Reporting Program Data: Arson, United States, 2010
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    33528-0001-Codebook.pdf             -       -         -       2014-02-06  48328a77b55d3eca7ab0bdf19dbe0d7c
+
+    33528-0001-Data.dta                 -       21,771    1253    2014-02-06  1333ea834efa12ab5fb89c74607b6408
+
+    33528-0001-Data.sav                 -       21,771    1253    2014-02-06  45737b277b814d01c964fed1a1aab7c7
+
+    33528-0001-Data.stc                 -       21,771    1253    2014-02-06  ae896f67437aed246275117c4c6fdb33
+
+    33528-0001-Data.tsv                 -       21,771    1253    2014-02-06  7306aef07579a83379c916bffc6f51be
+
+    33528-0001-Data.txt                 2588    21,771    1253    2014-02-06  cc3f13b40d8b94975f2ebbda42a2bb1e
+
+    33528-0001-Setup.dct                -       -         -       2014-02-06  7ee523e6776536bad96a8224165da171
+
+    33528-0001-Setup.do                 -       -         -       2014-02-06  bbfe7cc59dad111ed7dfd7b18ec754f3
+
+    33528-0001-Setup.sas                -       -         -       2014-02-06  4a5ae71149518defce5660d123683c89
+
+    33528-0001-Setup.sps                -       -         -       2014-02-06  585e63829f6d4b35157f6c803d49c365
+

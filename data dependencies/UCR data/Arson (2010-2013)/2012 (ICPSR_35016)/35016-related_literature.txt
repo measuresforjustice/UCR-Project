@@ -1,0 +1,38 @@
+Bibliography
+Uniform Crime Reporting Program Data: Arson, United States, 2012
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 35016. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. 
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. Aldossari, Mobark Q.; Kim, Dan J., "Does more IT utilization improve
+police performance?." Presented at the Americas Conference on Information
+Systems 2017, Association for Information Systems, Boston, MA, Aug 10-12,
+2017.
+Full text PDF: https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1256&context=amcis2017
+
+2. Koski, Susan V.; Bowers, David; Costanza, S. E., "State and
+institutional correlates of reported victimization and consensual sexual
+activity in juvenile correctional facilities." Child and Adolescent Social
+Work Journal. Jun 2018, 35, (3), 243 - 255. DOI: 10.1007/s10560-017-0520-6
+Full text PDF: https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1256&context=amcis2017
+
+3. Koslicki, Wendy M.; Willits, Dale, "The iron fist in the velvet glove?
+Testing the militarization/community policing paradox." International
+Journal of Police Science and Management. Jun 2018, 20, (2), 143 - 154.
+DOI: 10.1177/1461355718774581
+Full text PDF: https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1256&context=amcis2017
+
+4. Przeszlowski, Kimberly S.; Crichlow, Vaughn J., "An exploratory
+assessment of community-oriented policing implementation, social
+disorganization and crime in America." Social Sciences. Mar 2018, 7, (3),.
+DOI: 10.3390/socsci7030035
+Abstract: http://www.mdpi.com/2076-0760/7/3/35
+Full text: http://www.mdpi.com/2076-0760/7/3/35/htm
+Full text PDF: http://www.mdpi.com/2076-0760/7/3/35/pdf
